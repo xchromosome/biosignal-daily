@@ -1,52 +1,562 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>BioSignal · 生物医药精选</title><link>https://xchromosome.github.io/biosignal-daily/</link><description>机制与数据优先的生物医药每日精选</description>
-<item><title>sofosbuvir-velpatasvir 8周与12周方案治疗初治非肝硬化慢性丙型肝炎的非劣效性试验</title><link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01380-2/fulltext?rss=yes</link><guid isPermaLink="false">sdztp18d23kk28rp3kj5vnlpi</guid><pubDate>Wed, 30 Sep 2026 22:30:01 GMT</pubDate><description>RESOLVE试验显示，对于无肝硬化的慢性HCV感染者，sofosbuvir-velpatasvir 8周方案与标准12周治疗的疗效相似。</description></item>
-<item><title>orforglipron 对比甘精胰岛素在心血管风险增加的 2 型糖尿病患者中的心血管安全性（ACHIEVE-4）：3 期事件驱动随机开放标签非劣效性试验</title><link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01865-9/fulltext?rss=yes</link><guid isPermaLink="false">f64cgoxino5gsc884mxq45n1c</guid><pubDate>Wed, 30 Sep 2026 22:01:01 GMT</pubDate><description>orforglipron 在心血管风险增加的 2 型糖尿病患者中证实了对 MACE-4 的心血管安全性非劣效于胰岛素 glargine。orforglipron 最常见的不良事件是胃肠道事件且是停药主因，但临床显著低血糖发生率低于胰岛素 glargine。这些结果支持 orforglipron 作为该人群具有心血管安全性的每日一次口服治疗选择。 — 原文提供了与胰岛素对照的心血管安全性非劣效结果，并比较了胃肠道不良事件和低血糖发生率。</description></item>
-<item><title>交感神经激活与内源性逆转录病毒表达共同触发自身免疫性脱发</title><link>https://www.nature.com/articles/s41586-026-11098-y</link><guid isPermaLink="false">pg85jrrx1l48pcem1yednq956</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究发现调节性T细胞缺失后，交感神经激活通过β2-肾上腺素受体诱导毛囊干细胞表达内源性逆转录病毒，进而激活cDC1细胞和CD8+T细胞攻击毛囊。在小鼠模型中，阻断交感神经信号或逆转录病毒活性可防止脱发，揭示了神经免疫相互作用在自身免疫性疾病中的新机制。 — 该研究通过小鼠模型揭示了交感神经激活与内源性逆转录病毒表达共同触发自身免疫性脱发的双打击机制。</description></item>
-<item><title>TBK1/ULK1信号轴将溶酶体应激与TFEB激活相偶联</title><link>https://www.nature.com/articles/s41586-026-11093-3</link><guid isPermaLink="false">xvex2umidrotm4p8x335eyjch</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>通过溶酶体的蛋白质组学和磷酸化蛋白质组学分析，研究发现了一条不依赖营养的mTORC1信号调控通路，介导溶酶体对压力的适应，其失调是滤泡淋巴瘤发生的基础。 — 研究揭示了溶酶体应激通过TBK1/ULK1信号轴激活TFEB的机制，为理解滤泡淋巴瘤发生提供了新的分子基础。</description></item>
-<item><title>GTAC：通过重编程GPCR内吞和降解实现受体拮抗的双功能抗体</title><link>https://www.nature.com/articles/s41586-026-11088-0</link><guid isPermaLink="false">yx777vngzaxyqi09veo0g193e</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究团队开发了GTAC双功能抗体，利用转铁蛋白受体1的组成性内吞作用诱导GPCR降解。在AT1R、RXFP1、CCR6和BILF1等多个GPCR模型中，GTAC实现了皮摩尔到纳摩尔级的受体降解效力，信号抑制效果比传统拮抗剂强10-100倍。该平台还展示了在iPSC心肌细胞、原代T细胞和银屑病小鼠模型中的功能活性。</description></item>
-<item><title>转录暂停和延伸调控因子介导体细胞超突变</title><link>https://www.nature.com/articles/s41586-026-11092-4</link><guid isPermaLink="false">de1oflw9a9tkmk6c31tavt950</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究鉴定了介导激活诱导脱氨酶染色质招募及其停滞聚合酶II底物生成的分子因子和机制。这些发现揭示了体细胞超突变过程中的关键调控环节。 — 研究揭示了体细胞超突变中关键酶招募和底物生成的分子机制，为理解抗体多样性提供了新视角。</description></item>
-<item><title>人源 tau 蛋白株在小鼠脑中呈现朊病毒样传播</title><link>https://www.nature.com/articles/s41586-026-11061-x</link><guid isPermaLink="false">o2pqgmugtkjr398eft34go45c</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>小鼠实验表明，阿尔茨海默病和皮质基底节变性来源的 tau 纤维在模板化播种过程中能保持其独特的结构。这一发现支持了 tau 蛋白株特异性传播和疾病建模的机制。 — 实验展示了不同 tau 蛋白病来源的纤维在体内传播时能保持其独特的结构特征，为疾病建模提供了分子基础。</description></item>
-<item><title>人类遗传学研究揭示BACH2-NRF2轴在胎儿血红蛋白激活中的作用</title><link>https://www.nature.com/articles/s41586-026-11113-2</link><guid isPermaLink="false">gue7fjzr1s0kip662mkxxzquo</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>通过对28,279名多人群个体进行GWAS分析，研究发现BACH2通过限制NRF2介导的γ-珠蛋白基因转录激活来抑制胎儿血红蛋白表达。功能实验证实BACH2缺失可增强NRF2在γ-珠蛋白启动子和LCR区域的染色质占据，诱导HbF表达。该机制独立于已知的BCL11A通路，为血红蛋白疾病治疗提供了新靶点。 — 研究通过多人群GWAS和功能实验揭示了BACH2-NRF2轴调控胎儿血红蛋白的新机制，为镰状细胞病和β地中海贫血提供了潜在治疗靶点。</description></item>
-<item><title>破骨细胞来源的血管生成素-2损害脑膜淋巴管功能并削弱对硬脑膜转移瘤的抗肿瘤免疫</title><link>https://www.nature.com/articles/s41586-026-11082-6</link><guid isPermaLink="false">oj4qzim959to1d1bqk8w0qxhl</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究发现破骨细胞来源的血管生成素-2在硬脑膜中损害淋巴管功能并削弱对硬脑膜转移瘤的抗肿瘤免疫。这为通过选择性靶向破骨细胞恢复脑膜淋巴功能提供了新的治疗途径。</description></item>
-<item><title>组蛋白阅读器MLLT1和MLLT3通过相分离机制富集AID赋予位点特异性</title><link>https://www.nature.com/articles/s41586-026-11087-1</link><guid isPermaLink="false">hno5ctjmr9rrb6se81j7eb4vm</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究发现组蛋白阅读器MLLT1和MLLT3通过相分离机制在基因组特定位点富集激活诱导胞苷脱氨酶（AID），从而调控抗体基因的体细胞超突变和类别转换重组。实验表明MLLT1/3缺失会损害AID的基因组定位和功能，而相分离能力是这一过程的关键机制。 — 研究揭示了组蛋白阅读器通过相分离机制调控AID靶向特异性的分子机制，为理解抗体多样性和淋巴瘤发生提供了新视角。</description></item>
-<item><title>2型免疫史训练肺巨噬细胞产生病毒疾病耐受性</title><link>https://www.nature.com/articles/s41586-026-11060-y</link><guid isPermaLink="false">bo9uexzdjqhkz9wqq3hz0e5x5</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究发现2型炎症可训练神经和气道相关巨噬细胞，使其在不增强病毒清除的情况下，通过限制免疫病理和促进组织修复来抵御致死性流感，从而赋予疾病耐受性。 — 研究揭示了2型免疫反应训练巨噬细胞产生疾病耐受性的新机制，为理解宿主防御与免疫病理的平衡提供了新视角。</description></item>
-<item><title>高糖饮食加剧抗生素诱导的肠道菌群紊乱并增加血液肿瘤患者死亡风险</title><link>https://www.nature.com/articles/s41586-026-11077-3</link><guid isPermaLink="false">nogbiz900vgnmcv4i8xbgh6m4</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>在173名接受异基因造血细胞移植的血液肿瘤患者中，研究发现摄入高糖食物与广谱抗生素暴露协同降低肠道菌群α多样性，并促进肠球菌扩增。每增加100克糖摄入，抗生素暴露期间的菌群α多样性额外降低24.1%。在糖摄入较高的患者中，抗生素暴露时长与死亡风险相关（HR=1.12，95% CI 1.01-1.23）。小鼠实验证实蔗糖可加剧抗生素诱导的肠球菌扩增。 — 研究通过高精度饮食记录与肠道菌群测序，揭示了糖摄入与抗生素在血液肿瘤患者中的协同破坏作用，为临床营养干预提供了机制依据。</description></item>
-<item><title>基因疗法 Otarmeni 获批治疗 OTOF 突变耳聋的研发历程回顾</title><link>https://www.nature.com/articles/d41586-026-02894-7</link><guid isPermaLink="false">pf9l3jofdpevavidb6z6i1wow</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>Nature 回顾了从 1990 年代 OTOF 基因发现到 2025 年 Otarmeni 成为首个获 FDA 批准用于听力丧失基因疗法的关键里程碑。CHORD 试验中 80% 的参与者在 24 周内听力改善，42% 恢复听力。文章详述了病毒载体 Anc80L65 克服基因尺寸难题、小鼠模型验证机制以及多国药企布局此领域的研发转折点。 — 文章通过时间线梳理了从基础研究到临床获批的关键节点，帮助读者理解基因疗法开发中的技术障碍与突破路径。</description></item>
-<item><title>SynthIDBio：AI生成蛋白质的功能保持型水印方法</title><link>https://www.nature.com/articles/s41586-026-10965-y</link><guid isPermaLink="false">pqjaqig4ouqed0a4u9jlg67sc</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究者开发了SynthIDBio-sequence和SynthIDBio-structure两种水印方法，分别用于AI生成的蛋白质序列和结构。通过体外实验验证，水印蛋白结合剂对SARS-CoV-2受体结合域（SC2RBD）保持低纳摩尔结合亲和力，对VEGF-A和PD-L1保持亚纳摩尔结合亲和力。水印检测在0.1%假阳性率下达到100%真阳性率，且不影响关键结构指标如LDDT和模板建模分数。 — 研究者开发了两种功能保持型水印方法，通过体外实验验证了水印蛋白结合剂在SC2RBD、VEGF-A和PD-L1靶点上保持纳摩尔级结合亲和力。</description></item>
-<item><title>饮食-微生物组-代谢物生态系统比肥胖更能预测抗PD-1疗效</title><link>https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00396-X?rss=yes</link><guid isPermaLink="false">ohvw7rqrkuw45y48xk7q93fcx</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>En-Wei Tao等评论Desharnais等在Nature的研究，显示在多种小鼠模型中抗PD-1敏感性更紧密关联饮食-微生物组-代谢物生态系统而非肥胖相关代谢功能障碍。该发现强化了BMI作为宿主生物学不完全代理指标的观点，并提出了不诱导肥胖即可提高抗PD-1疗效的策略。</description></item>
-<item><title>RNA 剪接因子突变通过毒害蛋白复合物驱动髓系肿瘤发生</title><link>https://www.biorxiv.org/content/10.64898/2026.09.29.754980v1?rss=1</link><guid isPermaLink="false">k60xgrechlshefk9wabkrxdnq</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究对 62 名髓系肿瘤患者和 20 名健康供体进行长/短读长单细胞转录组（10X-ONT，n=21）和免疫表型分辨的低细胞蛋白质组分析，发现剪接因子突变在造血分化过程中以突变特异性方式使蛋白质-转录组动态解耦。 — 研究结合长读长单细胞转录组和低细胞蛋白质组，揭示了剪接因子突变通过毒害蛋白复合物驱动肿瘤发生的新机制。</description></item>
-<item><title>静脉注射透明质酸酶表达溶瘤腺病毒联合化疗在转移性胰腺癌中的随机二期试验</title><link>https://www.nature.com/articles/s41591-026-04705-y</link><guid isPermaLink="false">qodcg5e3vlpxxgf1ddnvcy3in</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>VIRAGE 二期试验显示，zabilugene almadenorepvec (VCN-01) 联合吉西他滨和白蛋白紫杉醇 (GnP) 相比单用 GnP 延长了初治转移性胰腺癌患者的总生存期。试验结果在线发表于 Nature Medicine。 — 这项随机二期试验在转移性胰腺癌一线治疗中测试了溶瘤病毒联合化疗的生存获益。</description></item>
-<item><title>基因流动塑造古老 17q21.31 倒位多态性的多样性与演化</title><link>https://www.biorxiv.org/content/10.64898/2026.09.28.755014v1?rss=1</link><guid isPermaLink="false">wjercb40x8lag3dtn1kcjw1tv</guid><pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate><description>研究通过单细胞精子基因组测序直接测量了人类 17q21.31 位点 H1 和 H2 单倍型之间的重组率，发现单交换事件几乎完全被抑制，但基因转换或双交换事件的发生率超过基因组平均水平。在 All of Us 基因组中鉴定出 99 种不同的 H1-H2 重组单倍型，并利用大型亲本-胚胎数据集发现 H2 可加性增加女性染色体交叉率。祖先重组图将 H1-H2 基因流动定年至约 10-50 万年前。</description></item>
-<item><title>FDA 向 Fresenius Kabi AG 发出警告信，指出其无菌注射剂生产存在严重 CGMP 违规</title><link>http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/fresenius-kabi-ag-733107-09222026</link><guid isPermaLink="false">yfj2pfht0mb4p2gib7gtgto3z</guid><pubDate>Tue, 29 Sep 2026 13:20:10 GMT</pubDate><description>FDA 在 2026 年 1-2 月对 Fresenius Kabi USA LLC 无菌注射剂生产设施的检查中发现严重 CGMP 违规，包括未能充分调查内毒素测试失败、培养基灌装失败和外源性生物污染等问题。警告信要求公司在 15 个工作日内提交全面整改计划，否则可能影响新药申请批准和出口证书发放。公司已于 2026 年 7 月召回六批受影响的注射剂产品。</description></item>
-<item><title>FDA批准艾伯维JUVMO治疗帕金森病</title><link>https://bydrug.pharmcube.com/news/detail/bf66227ff9e1cadd6a7afb526e70c1b9</link><guid isPermaLink="false">pdz4zewa8udgl94m5jsy2tazw</guid><pubDate>Tue, 29 Sep 2026 09:31:00 GMT</pubDate><description>FDA批准艾伯维的JUVMO（tavapadon）用于治疗帕金森病。JUVMO是首个获批用于治疗成人帕金森病的选择性D1/D5受体激动剂，这是该领域数十年来多巴胺能药物治疗的首个突破。 — 这是帕金森病治疗领域数十年来多巴胺能药物治疗的首个突破，提供了新的治疗选择。</description></item>
-<item><title>黑色素瘤转移能力与进展的基因组相关性研究</title><link>https://www.biorxiv.org/content/10.64898/2026.09.23.753695v1?rss=1</link><guid isPermaLink="false">zjy82i1ynhq9x3plvfcvrz9qe</guid><pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate><description>研究对247例I/II期原发性皮肤黑色素瘤和60例未经干预的匹配转移灶进行测序，整合拷贝数、突变、蛋白和空间转录组分析。复发并非由致癌点突变区分，而是由体细胞拷贝数改变和染色体不稳定性驱动。研究定义了OncoCycle六基因拷贝数特征，可独立预测复发。转移进展由持续的拷贝数演变和瘤内异质性减少驱动，而非获得性点突变。</description></item>
-<item><title>肠道菌群通过树突状细胞AHR信号通路加重缺血性脑卒中</title><link>https://www.cell.com/cell/fulltext/S0092-8674(26)01115-3?rss=yes</link><guid isPermaLink="false">xxg41fdku6okkd993vf57zfrf</guid><pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate><description>产吲哚大肠杆菌通过激活树突状细胞中的芳烃受体信号通路加重缺血性脑卒中。限制树突状细胞中的AHR信号可促进肠道来源树突状细胞向脑膜迁移，扩增脑膜调节性T细胞，并减轻神经炎症。这一微生物-AHR轴是一个有前景的治疗靶点。 — 研究揭示了肠道菌群通过树突状细胞AHR信号通路调控脑卒中严重程度的机制，为干预神经炎症提供了新靶点。</description></item>
-<item><title>BRCA2缺失驱动PKM1主导的糖酵解状态并对丙酮酸激酶激活选择性致死</title><link>https://www.biorxiv.org/content/10.64898/2026.09.29.754041v1?rss=1</link><guid isPermaLink="false">xsmtxa6iqywyk9g6zzkoqb8gu</guid><pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate><description>BRCA1/2缺失的HRD肿瘤表现出广泛的代谢重编程，并选择性上调组成型活性丙酮酸激酶M1（PKM1）亚型。使用小分子激活剂（包括FDA批准的mitapivat）过度激活PKM会导致超氧化物积累、破坏PINK1依赖性线粒体质量控制、诱导DNA损伤，并在体内选择性杀死BRCA2缺陷肿瘤。</description></item>
-<item><title>SON 介导的环状 RNA 抑制促进胶质母细胞瘤的 PKR 信号与放疗抵抗</title><link>https://www.biorxiv.org/content/10.64898/2026.09.28.755153v1?rss=1</link><guid isPermaLink="false">ra6zbj5o1xro2cfijgrt037np</guid><pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate><description>研究发现剪接共因子 SON 是胶质母细胞瘤中环状 RNA 生物发生的新型抑制因子。SON 敲低增加 circRNA 丰度并减弱 PKR/NF-κB 信号激活，而过表达 SON 抑制的 circUSP1 和 circSUCO 可降低 PKR 激活并选择性减少放疗抵抗细胞的克隆形成存活。该结果揭示了 SON/circRNA/PKR 通路在胶质母细胞瘤获得性放疗抵抗中的作用。 — 研究揭示了 SON 通过抑制环状 RNA 促进 PKR 信号通路和胶质母细胞瘤放疗抵抗的新机制，并指出特定 circRNA 可能成为逆转耐药的治疗工具。</description></item>
-<item><title>garetosmab 在 FOP 三期试验 OPTIMA 中显著减少新异位骨病变</title><link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01599-0/fulltext?rss=yes</link><guid isPermaLink="false">kjma154ar7nbve10235x13b9t</guid><pubDate>Mon, 28 Sep 2026 22:30:02 GMT</pubDate><description>garetosmab（激活素 A 阻断抗体）在 OPTIMA 三期随机双盲安慰剂对照试验中显著减少进行性骨化性纤维发育不良（FOP）患者的新异位骨病变数量，提供了其作为有效且耐受良好的疾病修饰疗法的证据。 — 原文提供了三期试验中异位骨病变减少的关键数据，读者可据此评估该抗体对进行性骨化性纤维发育不良的疾病修饰潜力。</description></item>
-<item><title>FDA批准首款MCT8缺陷症治疗药物Emcitate</title><link>http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency</link><guid isPermaLink="false">b265ntpl0t6sjkmvwtuqzmttm</guid><pubDate>Mon, 28 Sep 2026 21:43:18 GMT</pubDate><description>FDA批准Emcitate（tiratricol）口服混悬片用于治疗MCT8缺陷症（Allan-Herndon-Dudley综合征）患者的外周甲状腺毒症。该药是首款获批用于此罕见遗传病的疗法，其活性成分tiratricol可绕过功能异常的MCT8转运蛋白自行进入细胞，从而降低血液中过高的甲状腺激素水平。</description></item>
-<item><title>m6A驱动的瘤内胆固醇生物合成促进去势抵抗性前列腺癌进展</title><link>https://www.biorxiv.org/content/10.64898/2026.09.24.753979v1?rss=1</link><guid isPermaLink="false">y65av1kvb5jckkkk0hgjxk3s8</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究发现METTL3与核孔蛋白NUP93相互作用，介导m6A修饰mRNA的核输出，功能耦联胆固醇生物合成，从而促进去势抵抗性前列腺癌进展。过表达野生型METTL3或NUP93可提高细胞内雄激素水平并激活AR信号，而METTL3的药理学抑制或靶向去甲基化可抑制CRPC恶性表型。 — 研究通过功能丧失和功能获得实验验证了METTL3-NUP93轴的具体作用，并展示了药理学抑制的潜在治疗前景。</description></item>
-<item><title>破坏含ARID1A的SWI/SNF复合物可重编程肿瘤相关巨噬细胞并增强免疫治疗反应</title><link>https://www.biorxiv.org/content/10.64898/2026.09.25.754528v1?rss=1</link><guid isPermaLink="false">umtsyoh49j72bs5uifwiuwse1</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究发现药理学抑制SWI/SNF ATPase活性或髓系细胞特异性敲除Arid1a可抑制肿瘤生长并增强检查点阻断疗效。单细胞分析显示SWI/SNF抑制降低了TAMs中与不良预后相关基因（如Spp1）增强子的可及性，增加了干扰素刺激基因启动子的可及性。增强的免疫治疗反应依赖于ARID1A缺陷TAMs上CD86的表达和CD8+ T细胞。 — 研究通过药理学抑制和基因敲除两种方法验证了靶向巨噬细胞染色质重塑可增强免疫检查点阻断疗效，并揭示了CD86共刺激的关键作用。</description></item>
-<item><title>减数分裂 B 型 cyclin 选择性驱动癌细胞的有丝分裂进程和保真度</title><link>https://www.biorxiv.org/content/10.64898/2026.09.28.754947v1?rss=1</link><guid isPermaLink="false">s0n88q0sskbssgq412i01pdji</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究发现 cyclin B3-CDK1/2 复合物在有丝分裂细胞中表达，对染色体正确排列和着丝粒-微管相互作用的稳定性至关重要。cyclin B3 耗竭会破坏大多数癌细胞系的有丝分裂进程，包括结直肠癌、骨肉瘤和乳腺癌模型，而非转化细胞基本不受影响。 — 研究发现 cyclin B3-CDK1/2 复合物在多种癌细胞中驱动有丝分裂进程，而正常细胞不受影响，提示了潜在的治疗靶点。</description></item>
-<item><title>光开关 Cas12f 和聚焦超声实现体内基因编辑的非侵入性控制</title><link>https://www.cell.com/cell/fulltext/S0092-8674(26)01074-3?rss=yes</link><guid isPermaLink="false">ry4a6arvemzjsxm3stuhejwwz</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究人员开发了可通过单次 AAV 递送的光开关 Cas12f 系统，结合聚焦超声实现深部组织基因编辑的远程激活，无需手术或植入设备即可精确控制编辑的时空特异性。 — 通过聚焦超声实现深部组织基因编辑的非侵入性控制，为体内基因治疗提供了新的操作范式。</description></item>
-<item><title>人类泛基因组中HERV-K(HML-2)的结构多态性与群体可变编码能力</title><link>https://www.biorxiv.org/content/10.64898/2026.09.22.753638v1?rss=1</link><guid isPermaLink="false">or8smttcy8t4ei58z4qeh7xm0</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究利用292名供体的单倍型分辨长读长基因组组装，解析了HERV-K(HML-2)内源性逆转录病毒原病毒的结构变异和编码能力。发现多个先前认为固定的位点实际存在结构多态性，包括13个位点存在串联阵列（最多含6个原病毒拷贝），并在8q11.23发现一个新全长原病毒。标准参考基因组未能代表许多个体中保留的编码能力，短读长基因分型在病毒阅读框相关位点有32.5%的供体-变异对无法解析。 — 通过长读长测序揭示了标准参考基因组未能充分代表的人类内源性逆转录病毒结构多态性，为相关疾病研究提供了更精确的遗传背景。</description></item>
-<item><title>AI引导优化热稳定mRNA疫苗，实现37°C储存两月后保持生物活性</title><link>https://www.nature.com/articles/s41587-026-03330-x</link><guid isPermaLink="false">m0z57g9wioqxl2ahpddcm6sww</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>AGENT框架结合高通量实验与贝叶斯优化，可快速设计热稳定的固态mRNA疫苗。这些制剂在37°C储存两个月后仍保持完全生物活性，在啮齿类和非人灵长类动物中通过微针贴片引发与新鲜疫苗相当的免疫反应。</description></item>
-<item><title>胚系同源重组缺陷影响TP53突变克隆造血在铂类和PARP抑制剂治疗中的适应性</title><link>https://www.nature.com/articles/s41588-026-02752-2</link><guid isPermaLink="false">ixgojspql0q3wnubig2r2xozk</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究表明铂类比PARP抑制剂更能驱动DNA损伤反应基因突变的克隆造血，而存在胚系同源重组缺陷突变会降低这些克隆的扩增速率。该研究发表于Nature Genetics，DOI:10.1038/s41588-026-02752-2。 — 研究比较了铂类和PARP抑制剂对DNA损伤反应基因突变克隆造血的影响，并发现胚系同源重组缺陷突变会减缓这些克隆的扩增速度。</description></item>
-<item><title>BLTP3A功能失调通过STING释放溶酶体应激诱导的抗肿瘤免疫</title><link>https://www.biorxiv.org/content/10.64898/2026.09.25.752224v1?rss=1</link><guid isPermaLink="false">fcg55kh0hcdhoxqa94snn0cwi</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究发现BLTP3A是卵巢癌中溶酶体应激的解决因子，其功能缺失或M1098T变异会增强溶酶体损伤，从而持续激活STING通路并促进IFN-λ产生，重塑抗肿瘤免疫微环境。携带M1098T变异的患者总生存期更长，肿瘤中细胞毒性T细胞-髓系细胞区域富集。机制上，BLTP3A功能障碍破坏了CASM相关的溶酶体应激解决，导致STING信号持续而不增加cGAMP。 — 研究揭示了BLTP3A功能缺失通过STING通路增强抗肿瘤免疫的机制，为卵巢癌治疗提供了潜在靶点。</description></item>
-<item><title>碱基编辑器扫描绘制MAPK信号通路的化学-遗传相互作用图谱</title><link>https://www.biorxiv.org/content/10.64898/2026.09.25.753639v1?rss=1</link><guid isPermaLink="false">fb7417s60dlpyszcidt2h0tnb</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究应用碱基编辑器扫描22个MAPK通路基因，构建了信号通路的化学-遗传相互作用图谱。分析发现耐药突变常出现在非直接药物靶点的蛋白中，并识别出KRAS N端的一个变构位点。研究还发现催化功能受损的CRAF突变体对结构相似的MEK抑制剂产生双向耐药和增敏作用。</description></item>
-<item><title>定义人类慢性肝病纤维化微环境中的致病性巨噬细胞</title><link>https://www.nature.com/articles/s41588-026-02778-6</link><guid isPermaLink="false">epp2igmc1jcfyefoero90d2k7</guid><pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate><description>研究利用77名慢性肝病患者的肝脏单细胞图谱，解析出TREM2+疤痕相关巨噬细胞的两个亚群，并确定OLR1作为选择性调节促纤维化巨噬细胞功能从而减轻肝纤维化的候选治疗靶点。 — 研究通过单细胞图谱识别了TREM2+疤痕相关巨噬细胞的两个亚群，为选择性调节促纤维化功能提供了潜在靶点。</description></item>
-<item><title>靶向抑制性中性粒细胞的染色质脆弱性可恢复抗肿瘤免疫</title><link>https://www.biorxiv.org/content/10.64898/2026.09.26.754703v1?rss=1</link><guid isPermaLink="false">dx5q9ugtxyw5shc48ets3tcq4</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>研究发现肿瘤诱导的抑制性中性粒细胞依赖mSWI/SNF染色质重塑维持其病理状态。两种口服mSWI/SNF ATP酶拮抗剂（降解剂和催化抑制剂）在PD-1阻断耐药的同系肿瘤模型中实现免疫依赖性肿瘤控制，并增强检查点疗法疗效。 — 研究揭示了抑制性中性粒细胞依赖的染色质可塑性靶点，并展示了两种口服小分子在PD-1耐药模型中的协同潜力。</description></item>
-<item><title>LENTRA平台通过系统性肿瘤细胞重编程将实体瘤转化为原位免疫治疗生物工厂</title><link>https://www.biorxiv.org/content/10.64898/2026.09.26.754636v1?rss=1</link><guid isPermaLink="false">bax28fvcf9v560g70ewfn7o6y</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>LENTRA是一种抗原靶向慢病毒平台，可在体内选择性转导并遗传修饰肿瘤细胞，使其在肿瘤局部产生免疫检查点抑制剂、细胞因子或治疗性酶。在多种小鼠实体瘤模型中，局部产生抗CTLA-4或IL-12引发了强效抗肿瘤反应并避免了全身毒性。</description></item>
-<item><title>谷氨酰胺与GLS1是限制头颈鳞癌T细胞浸润和功能的关键代谢检查点</title><link>https://www.biorxiv.org/content/10.64898/2026.09.24.753717v1?rss=1</link><guid isPermaLink="false">auomof21ihcfg6tl6ym7bcuyv</guid><pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate><description>一项前瞻性研究发现头颈鳞癌（HNSCC）中肿瘤代谢重编程导致谷氨酰胺剥夺和谷氨酰胺酶-1（GLS1）高表达，这限制了T细胞向肿瘤的迁移并削弱其功能。药理学抑制或基因敲除GLS1可增强肿瘤对免疫细胞介导的细胞毒性和免疫检查点抑制剂的敏感性，其机制涉及破坏谷胱甘肽依赖的ROS防御、抑制肿瘤增殖和增加MHC表达。</description></item>
-<item><title>21种成人组织的单核多组学基因调控图谱</title><link>https://www.biorxiv.org/content/10.64898/2026.09.25.754561v1?rss=1</link><guid isPermaLink="false">gtebafzis35vnuhl30nlme0ra</guid><pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate><description>研究构建了一个包含21种成人组织、459,856个单核转录组和染色质可及性图谱，识别了超过100万个候选顺式调控元件及其与基因的关联。图谱揭示了细胞身份主导、组织环境微调的调控模式，并基于此训练了序列功能模型来预测548,656个精细定位变体的染色质可及性效应。 — 该图谱整合了21种成人组织的多组学数据，为解析非编码遗传风险提供了细胞类型特异性的调控框架。</description></item>
-<item><title>Iberdomide 联合达雷妥尤单抗和地塞米松 vs 达雷妥尤单抗、硼替佐米和地塞米松治疗复发难治多发性骨髓瘤的 3 期试验结果</title><link>https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00450-X/fulltext?rss=yes</link><guid isPermaLink="false">fafxsc3utgwl3kl1rn6333mz2</guid><pubDate>Fri, 25 Sep 2026 14:00:02 GMT</pubDate><description>Iberdomide 联合达雷妥尤单抗和地塞米松相比达雷妥尤单抗、硼替佐米和地塞米松显著提高了 MRD 阴性完全缓解率。最常见 3-4 级不良事件为血液学事件和感染，多数可通过标准支持治疗管理。这些结果支持该方案作为复发难治多发性骨髓瘤的有效治疗选择，且有望在不同诊疗场景中实施。 — 试验直接比较了含 iberdomide 的新方案与标准方案在 MRD 阴性完全缓解率上的差异，为复发难治骨髓瘤提供了潜在门诊适用方案。</description></item>
-<item><title>放疗对比观察在WHO 2级非典型脑膜瘤完全切除后的三期随机试验结果（ROAM/EORTC-1308）</title><link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01804-0/fulltext?rss=yes</link><guid isPermaLink="false">e9vwampmusbuj53x9uwommext</guid><pubDate>Fri, 25 Sep 2026 10:08:00 GMT</pubDate><description>ROAM/EORTC-1308三期随机试验显示，WHO 2级非典型脑膜瘤完全切除后辅助放疗可降低复发风险。研究者建议当预防复发优先于放疗潜在迟发副作用时考虑该方案，决策需基于个体化医患讨论。 — 这项三期试验为WHO 2级非典型脑膜瘤术后辅助放疗提供了随机对照证据，帮助临床权衡复发风险与放疗副作用。</description></item>
-<item><title>人肠道染色质可及性的单细胞分析揭示克罗恩病的调控程序并阐明遗传关联</title><link>https://www.nature.com/articles/s41588-026-02755-z</link><guid isPermaLink="false">wt9hd98pb2jw9272mlwn6fm76</guid><pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate><description>本研究使用单细胞 ATAC-seq 绘制了克罗恩病患者和健康对照肠道黏膜的染色质可及性图谱，以表征与炎症和遗传效应相关的调控程序。研究揭示了疾病特异性染色质可及性模式，并阐明了遗传变异如何通过调控元件影响疾病易感性。 — 通过单细胞染色质可及性分析揭示了克罗恩病相关的调控程序，为理解炎症和遗传效应的机制提供了新视角。</description></item>
-<item><title>光不稳定寡核苷酸结合拓扑光梯度实现空间分辨的单细胞转录组与表观基因组分析</title><link>https://www.nature.com/articles/s41587-026-03328-5</link><guid isPermaLink="false">cdp0ob8t37ryuzpedwwds3mrt</guid><pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate><description>研究团队开发了 scSTAMP-seq 方法，利用光不稳定寡核苷酸和数字微镜器件产生的拓扑光梯度，在单细胞水平上实现 mRNA、DNA 可及性和 DNA 甲基化的空间解析。该方法在人类 iPSC 来源的胃泌样体中验证了 CDX2、SOX17 等谱系标记基因的空间表达模式，并分析了染色质调节因子的分布。数据已存入 GEO（GSE237524），代码开源在 GitHub。 — 该方法通过光控寡核苷酸和拓扑光梯度实现了单细胞水平上转录组和表观基因组的同时空间解析，为研究组织发育和疾病机制提供了新工具。</description></item>
-<item><title>默沙东 remigromig 三期 Brunello 试验达到主要终点</title><link>https://fiercebiotech.com/biotech/merck-co-uncorks-pivotal-victory-3b-eye-disease-prospect</link><guid isPermaLink="false">razinzyykh9bokjnbblp84d9x</guid><pubDate>Thu, 24 Sep 2026 12:15:00 GMT</pubDate><description>默沙东 remigromig 在三期 Brunello 试验中达到主要终点，两个剂量组在52周时最佳矫正视力变化均非劣于雷珠单抗。该三特异性药物通过激动 Wnt 通路模拟 norrin 配体功能，但 remigromig 组增殖性糖尿病视网膜病变、玻璃体出血和因不良事件停药发生率更高。另一项三期试验正在进行中，预计明年三月完成。 — 原文提供了与现有标准治疗的非劣效性比较结果和具体安全性数据，读者可以评估该新型三特异性药物的潜在风险收益平衡。</description></item>
-<item><title>衰老导向的纳米疗法改善纤维化并克服癌症免疫排斥</title><link>https://www.science.org/doi/abs/10.1126/science.aeg4791?af=R</link><guid isPermaLink="false">ka68q4bqogp00jcnitfr1nfxq</guid><pubDate>Thu, 24 Sep 2026 07:00:00 GMT</pubDate><description>研究团队开发了一种针对衰老细胞的纳米疗法，该疗法在小鼠模型中改善了纤维化并克服了癌症的免疫排斥。研究发表于 Science 期刊。 — 该研究提出了一种针对衰老细胞的纳米疗法，并展示了其在改善纤维化和克服肿瘤免疫排斥方面的潜力。</description></item>
-<item><title>神经酰胺合成通过 YAP 驱动的再生程序介导结直肠癌转移</title><link>https://www.science.org/doi/abs/10.1126/science.adw8520?af=R</link><guid isPermaLink="false">i1hly4a2fudarqq8uffva7ee1</guid><pubDate>Thu, 24 Sep 2026 07:00:00 GMT</pubDate><description>研究发现神经酰胺合成驱动结直肠癌转移，其机制涉及 YAP 信号通路激活的再生程序。该研究发表于 Science 期刊。 — 研究揭示了鞘脂代谢物神经酰胺在结直肠癌转移中的新机制，为靶向肿瘤微环境提供了潜在方向。</description></item>
-<item><title>成纤维细胞通过IGF1依赖性调节先天淋巴细胞抑制肠道炎症</title><link>https://www.science.org/doi/abs/10.1126/science.aei0062?af=R</link><guid isPermaLink="false">o7efzhdi87fi04i1dqzmnoocp</guid><pubDate>Thu, 24 Sep 2026 06:00:04 GMT</pubDate><description>研究发现成纤维细胞通过IGF1依赖性机制调节先天淋巴细胞，从而抑制肠道炎症。该研究发表于Science期刊第393卷第6818期。</description></item>
-<item><title>BC200 基因逃逸至人痘病毒揭示其在灵长类中的持续转座</title><link>https://www.science.org/doi/abs/10.1126/science.aeh3441?af=R</link><guid isPermaLink="false">ihoh9n267qnt80vyjxbtev7c8</guid><pubDate>Thu, 24 Sep 2026 06:00:04 GMT</pubDate><description>研究发现 BC200 基因逃逸至一种人痘病毒，揭示了该基因在灵长类动物中的持续转座活动。该研究发表于 Science 期刊第 393 卷第 6818 期。</description></item>
-<item><title>Grail 多癌种血液检测 Galleri 获 FDA 顾问委员会支持性投票</title><link>https://fiercebiotech.com/medtech/grail-survives-adcomm-vote-it-now-awaits-fda-decision-cancer-blood-test</link><guid isPermaLink="false">l0aaya3x6wm520b51bct9wkbx</guid><pubDate>Thu, 24 Sep 2026 06:00:00 GMT</pubDate><description>Grail 的多癌种血液检测 Galleri 获得 FDA 顾问委员会的支持性投票推荐。尽管今年早些时候其关键试验遭遇挫折且对其疗效的质疑增加，该公司仍获得了这一积极结果。</description></item>
-</channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BioSignal — 精选</title>
+    <link>http://localhost:3000/</link>
+    <description>最新 50 条 BioSignal 精选摘要，保留标题、站内阅读与原文入口；需要阅读器内全文可改订 /feed/full.xml。</description>
+    <language>zh-CN</language>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml" />
+    <ttl>30</ttl>
+    <generator>BioSignal (http://localhost:3000/agent)</generator>
+    <item>
+      <title><![CDATA[sofosbuvir-velpatasvir 8周与12周方案治疗初治非肝硬化慢性丙型肝炎的非劣效性试验]]></title>
+      <link>http://localhost:3000/items/sdztp18d23kk28rp3kj5vnlpi</link>
+      <description><![CDATA[<p>RESOLVE试验显示，对于无肝硬化的慢性HCV感染者，sofosbuvir-velpatasvir 8周方案与标准12周治疗的疗效相似。</p>
+<p>🔗 <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01380-2/fulltext?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/sdztp18d23kk28rp3kj5vnlpi">http://localhost:3000/items/sdztp18d23kk28rp3kj5vnlpi</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Wed, 30 Sep 2026 22:30:01 GMT</pubDate>
+      <guid isPermaLink="false">sdztp18d23kk28rp3kj5vnlpi</guid>
+      <author>noreply@localhost (The Lancet)</author>
+    </item>
+    <item>
+      <title><![CDATA[orforglipron 对比甘精胰岛素在心血管风险增加的 2 型糖尿病患者中的心血管安全性（ACHIEVE-4）：3 期事件驱动随机开放标签非劣效性试验]]></title>
+      <link>http://localhost:3000/items/f64cgoxino5gsc884mxq45n1c</link>
+      <description><![CDATA[<p>orforglipron 在心血管风险增加的 2 型糖尿病患者中证实了对 MACE-4 的心血管安全性非劣效于胰岛素 glargine。orforglipron 最常见的不良事件是胃肠道事件且是停药主因，但临床显著低血糖发生率低于胰岛素 glargine。这些结果支持 orforglipron 作为该人群具有心血管安全性的每日一次口服治疗选择。</p>
+<p>🔗 <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01865-9/fulltext?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/f64cgoxino5gsc884mxq45n1c">http://localhost:3000/items/f64cgoxino5gsc884mxq45n1c</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Wed, 30 Sep 2026 22:01:01 GMT</pubDate>
+      <guid isPermaLink="false">f64cgoxino5gsc884mxq45n1c</guid>
+      <author>noreply@localhost (The Lancet)</author>
+    </item>
+    <item>
+      <title><![CDATA[GTAC：通过重编程GPCR内吞和降解实现受体拮抗的双功能抗体]]></title>
+      <link>http://localhost:3000/items/yx777vngzaxyqi09veo0g193e</link>
+      <description><![CDATA[<p>研究团队开发了GTAC双功能抗体，利用转铁蛋白受体1的组成性内吞作用诱导GPCR降解。在AT1R、RXFP1、CCR6和BILF1等多个GPCR模型中，GTAC实现了皮摩尔到纳摩尔级的受体降解效力，信号抑制效果比传统拮抗剂强10-100倍。该平台还展示了在iPSC心肌细胞、原代T细胞和银屑病小鼠模型中的功能活性。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11088-0">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/yx777vngzaxyqi09veo0g193e">http://localhost:3000/items/yx777vngzaxyqi09veo0g193e</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">yx777vngzaxyqi09veo0g193e</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[TBK1/ULK1信号轴将溶酶体应激与TFEB激活相偶联]]></title>
+      <link>http://localhost:3000/items/xvex2umidrotm4p8x335eyjch</link>
+      <description><![CDATA[<p>通过溶酶体的蛋白质组学和磷酸化蛋白质组学分析，研究发现了一条不依赖营养的mTORC1信号调控通路，介导溶酶体对压力的适应，其失调是滤泡淋巴瘤发生的基础。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11093-3">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/xvex2umidrotm4p8x335eyjch">http://localhost:3000/items/xvex2umidrotm4p8x335eyjch</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">xvex2umidrotm4p8x335eyjch</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[基因流动塑造古老 17q21.31 倒位多态性的多样性与演化]]></title>
+      <link>http://localhost:3000/items/wjercb40x8lag3dtn1kcjw1tv</link>
+      <description><![CDATA[<p>研究通过单细胞精子基因组测序直接测量了人类 17q21.31 位点 H1 和 H2 单倍型之间的重组率，发现单交换事件几乎完全被抑制，但基因转换或双交换事件的发生率超过基因组平均水平。在 All of Us 基因组中鉴定出 99 种不同的 H1-H2 重组单倍型，并利用大型亲本-胚胎数据集发现 H2 可加性增加女性染色体交叉率。祖先重组图将 H1-H2 基因流动定年至约 10-50 万年前。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.28.755014v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/wjercb40x8lag3dtn1kcjw1tv">http://localhost:3000/items/wjercb40x8lag3dtn1kcjw1tv</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">wjercb40x8lag3dtn1kcjw1tv</guid>
+      <author>noreply@localhost (bioRxiv Genomics)</author>
+    </item>
+    <item>
+      <title><![CDATA[静脉注射透明质酸酶表达溶瘤腺病毒联合化疗在转移性胰腺癌中的随机二期试验]]></title>
+      <link>http://localhost:3000/items/qodcg5e3vlpxxgf1ddnvcy3in</link>
+      <description><![CDATA[<p>VIRAGE 二期试验显示，zabilugene almadenorepvec (VCN-01) 联合吉西他滨和白蛋白紫杉醇 (GnP) 相比单用 GnP 延长了初治转移性胰腺癌患者的总生存期。试验结果在线发表于 Nature Medicine。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41591-026-04705-y">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/qodcg5e3vlpxxgf1ddnvcy3in">http://localhost:3000/items/qodcg5e3vlpxxgf1ddnvcy3in</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">qodcg5e3vlpxxgf1ddnvcy3in</guid>
+      <author>noreply@localhost (Nature Medicine)</author>
+    </item>
+    <item>
+      <title><![CDATA[SynthIDBio：AI生成蛋白质的功能保持型水印方法]]></title>
+      <link>http://localhost:3000/items/pqjaqig4ouqed0a4u9jlg67sc</link>
+      <description><![CDATA[<p>研究者开发了SynthIDBio-sequence和SynthIDBio-structure两种水印方法，分别用于AI生成的蛋白质序列和结构。通过体外实验验证，水印蛋白结合剂对SARS-CoV-2受体结合域（SC2RBD）保持低纳摩尔结合亲和力，对VEGF-A和PD-L1保持亚纳摩尔结合亲和力。水印检测在0.1%假阳性率下达到100%真阳性率，且不影响关键结构指标如LDDT和模板建模分数。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-10965-y">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/pqjaqig4ouqed0a4u9jlg67sc">http://localhost:3000/items/pqjaqig4ouqed0a4u9jlg67sc</a></p>]]></description>
+      <category>方法</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">pqjaqig4ouqed0a4u9jlg67sc</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[交感神经激活与内源性逆转录病毒表达共同触发自身免疫性脱发]]></title>
+      <link>http://localhost:3000/items/pg85jrrx1l48pcem1yednq956</link>
+      <description><![CDATA[<p>研究发现调节性T细胞缺失后，交感神经激活通过β2-肾上腺素受体诱导毛囊干细胞表达内源性逆转录病毒，进而激活cDC1细胞和CD8+T细胞攻击毛囊。在小鼠模型中，阻断交感神经信号或逆转录病毒活性可防止脱发，揭示了神经免疫相互作用在自身免疫性疾病中的新机制。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11098-y">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/pg85jrrx1l48pcem1yednq956">http://localhost:3000/items/pg85jrrx1l48pcem1yednq956</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">pg85jrrx1l48pcem1yednq956</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[基因疗法 Otarmeni 获批治疗 OTOF 突变耳聋的研发历程回顾]]></title>
+      <link>http://localhost:3000/items/pf9l3jofdpevavidb6z6i1wow</link>
+      <description><![CDATA[<p>Nature 回顾了从 1990 年代 OTOF 基因发现到 2025 年 Otarmeni 成为首个获 FDA 批准用于听力丧失基因疗法的关键里程碑。CHORD 试验中 80% 的参与者在 24 周内听力改善，42% 恢复听力。文章详述了病毒载体 Anc80L65 克服基因尺寸难题、小鼠模型验证机制以及多国药企布局此领域的研发转折点。</p>
+<p>🔗 <a href="https://www.nature.com/articles/d41586-026-02894-7">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/pf9l3jofdpevavidb6z6i1wow">http://localhost:3000/items/pf9l3jofdpevavidb6z6i1wow</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">pf9l3jofdpevavidb6z6i1wow</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[破骨细胞来源的血管生成素-2损害脑膜淋巴管功能并削弱对硬脑膜转移瘤的抗肿瘤免疫]]></title>
+      <link>http://localhost:3000/items/oj4qzim959to1d1bqk8w0qxhl</link>
+      <description><![CDATA[<p>研究发现破骨细胞来源的血管生成素-2在硬脑膜中损害淋巴管功能并削弱对硬脑膜转移瘤的抗肿瘤免疫。这为通过选择性靶向破骨细胞恢复脑膜淋巴功能提供了新的治疗途径。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11082-6">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/oj4qzim959to1d1bqk8w0qxhl">http://localhost:3000/items/oj4qzim959to1d1bqk8w0qxhl</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">oj4qzim959to1d1bqk8w0qxhl</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[饮食-微生物组-代谢物生态系统比肥胖更能预测抗PD-1疗效]]></title>
+      <link>http://localhost:3000/items/ohvw7rqrkuw45y48xk7q93fcx</link>
+      <description><![CDATA[<p>En-Wei Tao等评论Desharnais等在Nature的研究，显示在多种小鼠模型中抗PD-1敏感性更紧密关联饮食-微生物组-代谢物生态系统而非肥胖相关代谢功能障碍。该发现强化了BMI作为宿主生物学不完全代理指标的观点，并提出了不诱导肥胖即可提高抗PD-1疗效的策略。</p>
+<p>🔗 <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00396-X?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/ohvw7rqrkuw45y48xk7q93fcx">http://localhost:3000/items/ohvw7rqrkuw45y48xk7q93fcx</a></p>]]></description>
+      <category>观点</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ohvw7rqrkuw45y48xk7q93fcx</guid>
+      <author>noreply@localhost (Cancer Cell)</author>
+    </item>
+    <item>
+      <title><![CDATA[人源 tau 蛋白株在小鼠脑中呈现朊病毒样传播]]></title>
+      <link>http://localhost:3000/items/o2pqgmugtkjr398eft34go45c</link>
+      <description><![CDATA[<p>小鼠实验表明，阿尔茨海默病和皮质基底节变性来源的 tau 纤维在模板化播种过程中能保持其独特的结构。这一发现支持了 tau 蛋白株特异性传播和疾病建模的机制。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11061-x">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/o2pqgmugtkjr398eft34go45c">http://localhost:3000/items/o2pqgmugtkjr398eft34go45c</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">o2pqgmugtkjr398eft34go45c</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[高糖饮食加剧抗生素诱导的肠道菌群紊乱并增加血液肿瘤患者死亡风险]]></title>
+      <link>http://localhost:3000/items/nogbiz900vgnmcv4i8xbgh6m4</link>
+      <description><![CDATA[<p>在173名接受异基因造血细胞移植的血液肿瘤患者中，研究发现摄入高糖食物与广谱抗生素暴露协同降低肠道菌群α多样性，并促进肠球菌扩增。每增加100克糖摄入，抗生素暴露期间的菌群α多样性额外降低24.1%。在糖摄入较高的患者中，抗生素暴露时长与死亡风险相关（HR=1.12，95% CI 1.01-1.23）。小鼠实验证实蔗糖可加剧抗生素诱导的肠球菌扩增。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11077-3">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/nogbiz900vgnmcv4i8xbgh6m4">http://localhost:3000/items/nogbiz900vgnmcv4i8xbgh6m4</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">nogbiz900vgnmcv4i8xbgh6m4</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[RNA 剪接因子突变通过毒害蛋白复合物驱动髓系肿瘤发生]]></title>
+      <link>http://localhost:3000/items/k60xgrechlshefk9wabkrxdnq</link>
+      <description><![CDATA[<p>研究对 62 名髓系肿瘤患者和 20 名健康供体进行长/短读长单细胞转录组（10X-ONT，n=21）和免疫表型分辨的低细胞蛋白质组分析，发现剪接因子突变在造血分化过程中以突变特异性方式使蛋白质-转录组动态解耦。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.29.754980v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/k60xgrechlshefk9wabkrxdnq">http://localhost:3000/items/k60xgrechlshefk9wabkrxdnq</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">k60xgrechlshefk9wabkrxdnq</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[组蛋白阅读器MLLT1和MLLT3通过相分离机制富集AID赋予位点特异性]]></title>
+      <link>http://localhost:3000/items/hno5ctjmr9rrb6se81j7eb4vm</link>
+      <description><![CDATA[<p>研究发现组蛋白阅读器MLLT1和MLLT3通过相分离机制在基因组特定位点富集激活诱导胞苷脱氨酶（AID），从而调控抗体基因的体细胞超突变和类别转换重组。实验表明MLLT1/3缺失会损害AID的基因组定位和功能，而相分离能力是这一过程的关键机制。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11087-1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/hno5ctjmr9rrb6se81j7eb4vm">http://localhost:3000/items/hno5ctjmr9rrb6se81j7eb4vm</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">hno5ctjmr9rrb6se81j7eb4vm</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[人类遗传学研究揭示BACH2-NRF2轴在胎儿血红蛋白激活中的作用]]></title>
+      <link>http://localhost:3000/items/gue7fjzr1s0kip662mkxxzquo</link>
+      <description><![CDATA[<p>通过对28,279名多人群个体进行GWAS分析，研究发现BACH2通过限制NRF2介导的γ-珠蛋白基因转录激活来抑制胎儿血红蛋白表达。功能实验证实BACH2缺失可增强NRF2在γ-珠蛋白启动子和LCR区域的染色质占据，诱导HbF表达。该机制独立于已知的BCL11A通路，为血红蛋白疾病治疗提供了新靶点。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11113-2">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/gue7fjzr1s0kip662mkxxzquo">http://localhost:3000/items/gue7fjzr1s0kip662mkxxzquo</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gue7fjzr1s0kip662mkxxzquo</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[转录暂停和延伸调控因子介导体细胞超突变]]></title>
+      <link>http://localhost:3000/items/de1oflw9a9tkmk6c31tavt950</link>
+      <description><![CDATA[<p>研究鉴定了介导激活诱导脱氨酶染色质招募及其停滞聚合酶II底物生成的分子因子和机制。这些发现揭示了体细胞超突变过程中的关键调控环节。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11092-4">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/de1oflw9a9tkmk6c31tavt950">http://localhost:3000/items/de1oflw9a9tkmk6c31tavt950</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de1oflw9a9tkmk6c31tavt950</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[2型免疫史训练肺巨噬细胞产生病毒疾病耐受性]]></title>
+      <link>http://localhost:3000/items/bo9uexzdjqhkz9wqq3hz0e5x5</link>
+      <description><![CDATA[<p>研究发现2型炎症可训练神经和气道相关巨噬细胞，使其在不增强病毒清除的情况下，通过限制免疫病理和促进组织修复来抵御致死性流感，从而赋予疾病耐受性。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41586-026-11060-y">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/bo9uexzdjqhkz9wqq3hz0e5x5">http://localhost:3000/items/bo9uexzdjqhkz9wqq3hz0e5x5</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bo9uexzdjqhkz9wqq3hz0e5x5</guid>
+      <author>noreply@localhost (Nature)</author>
+    </item>
+    <item>
+      <title><![CDATA[FDA 向 Fresenius Kabi AG 发出警告信，指出其无菌注射剂生产存在严重 CGMP 违规]]></title>
+      <link>http://localhost:3000/items/yfj2pfht0mb4p2gib7gtgto3z</link>
+      <description><![CDATA[<p>FDA 在 2026 年 1-2 月对 Fresenius Kabi USA LLC 无菌注射剂生产设施的检查中发现严重 CGMP 违规，包括未能充分调查内毒素测试失败、培养基灌装失败和外源性生物污染等问题。警告信要求公司在 15 个工作日内提交全面整改计划，否则可能影响新药申请批准和出口证书发放。公司已于 2026 年 7 月召回六批受影响的注射剂产品。</p>
+<p>🔗 <a href="http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/fresenius-kabi-ag-733107-09222026">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/yfj2pfht0mb4p2gib7gtgto3z">http://localhost:3000/items/yfj2pfht0mb4p2gib7gtgto3z</a></p>]]></description>
+      <category>监管</category>
+      <pubDate>Tue, 29 Sep 2026 13:20:10 GMT</pubDate>
+      <guid isPermaLink="false">yfj2pfht0mb4p2gib7gtgto3z</guid>
+      <author>noreply@localhost (FDA Drugs)</author>
+    </item>
+    <item>
+      <title><![CDATA[FDA批准艾伯维JUVMO治疗帕金森病]]></title>
+      <link>http://localhost:3000/items/pdz4zewa8udgl94m5jsy2tazw</link>
+      <description><![CDATA[<p>FDA批准艾伯维的JUVMO（tavapadon）用于治疗帕金森病。JUVMO是首个获批用于治疗成人帕金森病的选择性D1/D5受体激动剂，这是该领域数十年来多巴胺能药物治疗的首个突破。</p>
+<p>🔗 <a href="https://bydrug.pharmcube.com/news/detail/bf66227ff9e1cadd6a7afb526e70c1b9">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/pdz4zewa8udgl94m5jsy2tazw">http://localhost:3000/items/pdz4zewa8udgl94m5jsy2tazw</a></p>]]></description>
+      <category>监管</category>
+      <pubDate>Tue, 29 Sep 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="false">pdz4zewa8udgl94m5jsy2tazw</guid>
+      <author>noreply@localhost (中文产业新闻（药渡/pharmcube · Vault）)</author>
+    </item>
+    <item>
+      <title><![CDATA[黑色素瘤转移能力与进展的基因组相关性研究]]></title>
+      <link>http://localhost:3000/items/zjy82i1ynhq9x3plvfcvrz9qe</link>
+      <description><![CDATA[<p>研究对247例I/II期原发性皮肤黑色素瘤和60例未经干预的匹配转移灶进行测序，整合拷贝数、突变、蛋白和空间转录组分析。复发并非由致癌点突变区分，而是由体细胞拷贝数改变和染色体不稳定性驱动。研究定义了OncoCycle六基因拷贝数特征，可独立预测复发。转移进展由持续的拷贝数演变和瘤内异质性减少驱动，而非获得性点突变。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.23.753695v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/zjy82i1ynhq9x3plvfcvrz9qe">http://localhost:3000/items/zjy82i1ynhq9x3plvfcvrz9qe</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">zjy82i1ynhq9x3plvfcvrz9qe</guid>
+      <author>noreply@localhost (bioRxiv Genomics)</author>
+    </item>
+    <item>
+      <title><![CDATA[肠道菌群通过树突状细胞AHR信号通路加重缺血性脑卒中]]></title>
+      <link>http://localhost:3000/items/xxg41fdku6okkd993vf57zfrf</link>
+      <description><![CDATA[<p>产吲哚大肠杆菌通过激活树突状细胞中的芳烃受体信号通路加重缺血性脑卒中。限制树突状细胞中的AHR信号可促进肠道来源树突状细胞向脑膜迁移，扩增脑膜调节性T细胞，并减轻神经炎症。这一微生物-AHR轴是一个有前景的治疗靶点。</p>
+<p>🔗 <a href="https://www.cell.com/cell/fulltext/S0092-8674(26)01115-3?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/xxg41fdku6okkd993vf57zfrf">http://localhost:3000/items/xxg41fdku6okkd993vf57zfrf</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">xxg41fdku6okkd993vf57zfrf</guid>
+      <author>noreply@localhost (Cell)</author>
+    </item>
+    <item>
+      <title><![CDATA[BRCA2缺失驱动PKM1主导的糖酵解状态并对丙酮酸激酶激活选择性致死]]></title>
+      <link>http://localhost:3000/items/xsmtxa6iqywyk9g6zzkoqb8gu</link>
+      <description><![CDATA[<p>BRCA1/2缺失的HRD肿瘤表现出广泛的代谢重编程，并选择性上调组成型活性丙酮酸激酶M1（PKM1）亚型。使用小分子激活剂（包括FDA批准的mitapivat）过度激活PKM会导致超氧化物积累、破坏PINK1依赖性线粒体质量控制、诱导DNA损伤，并在体内选择性杀死BRCA2缺陷肿瘤。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.29.754041v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/xsmtxa6iqywyk9g6zzkoqb8gu">http://localhost:3000/items/xsmtxa6iqywyk9g6zzkoqb8gu</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">xsmtxa6iqywyk9g6zzkoqb8gu</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[SON 介导的环状 RNA 抑制促进胶质母细胞瘤的 PKR 信号与放疗抵抗]]></title>
+      <link>http://localhost:3000/items/ra6zbj5o1xro2cfijgrt037np</link>
+      <description><![CDATA[<p>研究发现剪接共因子 SON 是胶质母细胞瘤中环状 RNA 生物发生的新型抑制因子。SON 敲低增加 circRNA 丰度并减弱 PKR/NF-κB 信号激活，而过表达 SON 抑制的 circUSP1 和 circSUCO 可降低 PKR 激活并选择性减少放疗抵抗细胞的克隆形成存活。该结果揭示了 SON/circRNA/PKR 通路在胶质母细胞瘤获得性放疗抵抗中的作用。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.28.755153v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/ra6zbj5o1xro2cfijgrt037np">http://localhost:3000/items/ra6zbj5o1xro2cfijgrt037np</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ra6zbj5o1xro2cfijgrt037np</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[定义人类慢性肝病纤维化微环境中的致病性巨噬细胞]]></title>
+      <link>http://localhost:3000/items/epp2igmc1jcfyefoero90d2k7</link>
+      <description><![CDATA[<p>研究利用77名慢性肝病患者的肝脏单细胞图谱，解析出TREM2+疤痕相关巨噬细胞的两个亚群，并确定OLR1作为选择性调节促纤维化巨噬细胞功能从而减轻肝纤维化的候选治疗靶点。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41588-026-02778-6">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/epp2igmc1jcfyefoero90d2k7">http://localhost:3000/items/epp2igmc1jcfyefoero90d2k7</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">epp2igmc1jcfyefoero90d2k7</guid>
+      <author>noreply@localhost (Nature Genetics)</author>
+    </item>
+    <item>
+      <title><![CDATA[garetosmab 在 FOP 三期试验 OPTIMA 中显著减少新异位骨病变]]></title>
+      <link>http://localhost:3000/items/kjma154ar7nbve10235x13b9t</link>
+      <description><![CDATA[<p>garetosmab（激活素 A 阻断抗体）在 OPTIMA 三期随机双盲安慰剂对照试验中显著减少进行性骨化性纤维发育不良（FOP）患者的新异位骨病变数量，提供了其作为有效且耐受良好的疾病修饰疗法的证据。</p>
+<p>🔗 <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01599-0/fulltext?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/kjma154ar7nbve10235x13b9t">http://localhost:3000/items/kjma154ar7nbve10235x13b9t</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Mon, 28 Sep 2026 22:30:02 GMT</pubDate>
+      <guid isPermaLink="false">kjma154ar7nbve10235x13b9t</guid>
+      <author>noreply@localhost (The Lancet)</author>
+    </item>
+    <item>
+      <title><![CDATA[FDA批准首款MCT8缺陷症治疗药物Emcitate]]></title>
+      <link>http://localhost:3000/items/b265ntpl0t6sjkmvwtuqzmttm</link>
+      <description><![CDATA[<p>FDA批准Emcitate（tiratricol）口服混悬片用于治疗MCT8缺陷症（Allan-Herndon-Dudley综合征）患者的外周甲状腺毒症。该药是首款获批用于此罕见遗传病的疗法，其活性成分tiratricol可绕过功能异常的MCT8转运蛋白自行进入细胞，从而降低血液中过高的甲状腺激素水平。</p>
+<p>🔗 <a href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/b265ntpl0t6sjkmvwtuqzmttm">http://localhost:3000/items/b265ntpl0t6sjkmvwtuqzmttm</a></p>]]></description>
+      <category>监管</category>
+      <pubDate>Mon, 28 Sep 2026 21:43:18 GMT</pubDate>
+      <guid isPermaLink="false">b265ntpl0t6sjkmvwtuqzmttm</guid>
+      <author>noreply@localhost (FDA Press Releases)</author>
+    </item>
+    <item>
+      <title><![CDATA[FDA 批准默沙东/卫材贝组替凡联合仑伐替尼用于既往接受 PD-1/PD-L1 抑制剂治疗的晚期透明细胞肾细胞癌]]></title>
+      <link>http://localhost:3000/items/et66g6kw5piirshjpuni7b7vl</link>
+      <description><![CDATA[<p>FDA 批准贝组替凡联合仑伐替尼用于治疗既往接受过 PD-1/PD-L1 抑制剂治疗的晚期透明细胞肾细胞癌成人患者。贝组替凡是全球首个获批的 HIF-2α 抑制剂，可抑制 HIF-2α 信号通路并下调靶基因转录与表达。</p>
+<p>🔗 <a href="https://bydrug.pharmcube.com/news/detail/77f2ee3e8f7916e773dec95802c108be">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/et66g6kw5piirshjpuni7b7vl">http://localhost:3000/items/et66g6kw5piirshjpuni7b7vl</a></p>]]></description>
+      <category>监管</category>
+      <pubDate>Mon, 28 Sep 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="false">et66g6kw5piirshjpuni7b7vl</guid>
+      <author>noreply@localhost (中文产业新闻（药渡/pharmcube · Vault）)</author>
+    </item>
+    <item>
+      <title><![CDATA[依沃西单抗对比帕博利珠单抗在PD-L1阳性晚期非小细胞肺癌一线治疗中显示生存优势]]></title>
+      <link>http://localhost:3000/items/gyhcgwr56z9cdk4rn3c69f6ur</link>
+      <description><![CDATA[<p>依沃西单抗在PD-L1表达阳性（TPS≥1%）的晚期非小细胞肺癌一线治疗中，中位总生存期达到30.8个月，对比帕博利珠单抗的22.6个月，死亡风险降低27%。该药物是全球首个在Ⅲ期临床研究中头对头对比帕博利珠单抗并同时获得无进展生存期与总生存期阳性结果的药物。</p>
+<p>🔗 <a href="https://bydrug.pharmcube.com/news/detail/9e3d8d39f4d5b8c4fd9a7bd9d988ba7e">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/gyhcgwr56z9cdk4rn3c69f6ur">http://localhost:3000/items/gyhcgwr56z9cdk4rn3c69f6ur</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Mon, 28 Sep 2026 10:34:00 GMT</pubDate>
+      <guid isPermaLink="false">gyhcgwr56z9cdk4rn3c69f6ur</guid>
+      <author>noreply@localhost (中文产业新闻（药渡/pharmcube · Vault）)</author>
+    </item>
+    <item>
+      <title><![CDATA[FcRn阻断剂nipocalimab获FDA批准用于治疗wAIHA]]></title>
+      <link>http://localhost:3000/items/jxu8yfy9krptm35wuwe13dofk</link>
+      <description><![CDATA[<p>FcRn阻断剂nipocalimab已于8月25日获FDA批准，用于正在接受或既往接受过糖皮质激素治疗的温抗体型自身免疫性溶血性贫血成人及青少年患者。其关键II/III期ENERGY研究结果已发表于Blood杂志。</p>
+<p>🔗 <a href="https://bydrug.pharmcube.com/news/detail/2c6d06f6d325357b8eaee5fa9f5b30c1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/jxu8yfy9krptm35wuwe13dofk">http://localhost:3000/items/jxu8yfy9krptm35wuwe13dofk</a></p>]]></description>
+      <category>监管</category>
+      <pubDate>Mon, 28 Sep 2026 09:48:00 GMT</pubDate>
+      <guid isPermaLink="false">jxu8yfy9krptm35wuwe13dofk</guid>
+      <author>noreply@localhost (中文产业新闻（药渡/pharmcube · Vault）)</author>
+    </item>
+    <item>
+      <title><![CDATA[m6A驱动的瘤内胆固醇生物合成促进去势抵抗性前列腺癌进展]]></title>
+      <link>http://localhost:3000/items/y65av1kvb5jckkkk0hgjxk3s8</link>
+      <description><![CDATA[<p>研究发现METTL3与核孔蛋白NUP93相互作用，介导m6A修饰mRNA的核输出，功能耦联胆固醇生物合成，从而促进去势抵抗性前列腺癌进展。过表达野生型METTL3或NUP93可提高细胞内雄激素水平并激活AR信号，而METTL3的药理学抑制或靶向去甲基化可抑制CRPC恶性表型。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.24.753979v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/y65av1kvb5jckkkk0hgjxk3s8">http://localhost:3000/items/y65av1kvb5jckkkk0hgjxk3s8</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">y65av1kvb5jckkkk0hgjxk3s8</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[破坏含ARID1A的SWI/SNF复合物可重编程肿瘤相关巨噬细胞并增强免疫治疗反应]]></title>
+      <link>http://localhost:3000/items/umtsyoh49j72bs5uifwiuwse1</link>
+      <description><![CDATA[<p>研究发现药理学抑制SWI/SNF ATPase活性或髓系细胞特异性敲除Arid1a可抑制肿瘤生长并增强检查点阻断疗效。单细胞分析显示SWI/SNF抑制降低了TAMs中与不良预后相关基因（如Spp1）增强子的可及性，增加了干扰素刺激基因启动子的可及性。增强的免疫治疗反应依赖于ARID1A缺陷TAMs上CD86的表达和CD8+ T细胞。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.25.754528v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/umtsyoh49j72bs5uifwiuwse1">http://localhost:3000/items/umtsyoh49j72bs5uifwiuwse1</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">umtsyoh49j72bs5uifwiuwse1</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[减数分裂 B 型 cyclin 选择性驱动癌细胞的有丝分裂进程和保真度]]></title>
+      <link>http://localhost:3000/items/s0n88q0sskbssgq412i01pdji</link>
+      <description><![CDATA[<p>研究发现 cyclin B3-CDK1/2 复合物在有丝分裂细胞中表达，对染色体正确排列和着丝粒-微管相互作用的稳定性至关重要。cyclin B3 耗竭会破坏大多数癌细胞系的有丝分裂进程，包括结直肠癌、骨肉瘤和乳腺癌模型，而非转化细胞基本不受影响。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.28.754947v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/s0n88q0sskbssgq412i01pdji">http://localhost:3000/items/s0n88q0sskbssgq412i01pdji</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">s0n88q0sskbssgq412i01pdji</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[光开关 Cas12f 和聚焦超声实现体内基因编辑的非侵入性控制]]></title>
+      <link>http://localhost:3000/items/ry4a6arvemzjsxm3stuhejwwz</link>
+      <description><![CDATA[<p>研究人员开发了可通过单次 AAV 递送的光开关 Cas12f 系统，结合聚焦超声实现深部组织基因编辑的远程激活，无需手术或植入设备即可精确控制编辑的时空特异性。</p>
+<p>🔗 <a href="https://www.cell.com/cell/fulltext/S0092-8674(26)01074-3?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/ry4a6arvemzjsxm3stuhejwwz">http://localhost:3000/items/ry4a6arvemzjsxm3stuhejwwz</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ry4a6arvemzjsxm3stuhejwwz</guid>
+      <author>noreply@localhost (Cell)</author>
+    </item>
+    <item>
+      <title><![CDATA[人类泛基因组中HERV-K(HML-2)的结构多态性与群体可变编码能力]]></title>
+      <link>http://localhost:3000/items/or8smttcy8t4ei58z4qeh7xm0</link>
+      <description><![CDATA[<p>研究利用292名供体的单倍型分辨长读长基因组组装，解析了HERV-K(HML-2)内源性逆转录病毒原病毒的结构变异和编码能力。发现多个先前认为固定的位点实际存在结构多态性，包括13个位点存在串联阵列（最多含6个原病毒拷贝），并在8q11.23发现一个新全长原病毒。标准参考基因组未能代表许多个体中保留的编码能力，短读长基因分型在病毒阅读框相关位点有32.5%的供体-变异对无法解析。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.22.753638v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/or8smttcy8t4ei58z4qeh7xm0">http://localhost:3000/items/or8smttcy8t4ei58z4qeh7xm0</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">or8smttcy8t4ei58z4qeh7xm0</guid>
+      <author>noreply@localhost (bioRxiv Genomics)</author>
+    </item>
+    <item>
+      <title><![CDATA[AI引导优化热稳定mRNA疫苗，实现37°C储存两月后保持生物活性]]></title>
+      <link>http://localhost:3000/items/m0z57g9wioqxl2ahpddcm6sww</link>
+      <description><![CDATA[<p>AGENT框架结合高通量实验与贝叶斯优化，可快速设计热稳定的固态mRNA疫苗。这些制剂在37°C储存两个月后仍保持完全生物活性，在啮齿类和非人灵长类动物中通过微针贴片引发与新鲜疫苗相当的免疫反应。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41587-026-03330-x">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/m0z57g9wioqxl2ahpddcm6sww">http://localhost:3000/items/m0z57g9wioqxl2ahpddcm6sww</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">m0z57g9wioqxl2ahpddcm6sww</guid>
+      <author>noreply@localhost (Nature Biotechnology)</author>
+    </item>
+    <item>
+      <title><![CDATA[胚系同源重组缺陷影响TP53突变克隆造血在铂类和PARP抑制剂治疗中的适应性]]></title>
+      <link>http://localhost:3000/items/ixgojspql0q3wnubig2r2xozk</link>
+      <description><![CDATA[<p>研究表明铂类比PARP抑制剂更能驱动DNA损伤反应基因突变的克隆造血，而存在胚系同源重组缺陷突变会降低这些克隆的扩增速率。该研究发表于Nature Genetics，DOI:10.1038/s41588-026-02752-2。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41588-026-02752-2">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/ixgojspql0q3wnubig2r2xozk">http://localhost:3000/items/ixgojspql0q3wnubig2r2xozk</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ixgojspql0q3wnubig2r2xozk</guid>
+      <author>noreply@localhost (Nature Genetics)</author>
+    </item>
+    <item>
+      <title><![CDATA[BLTP3A功能失调通过STING释放溶酶体应激诱导的抗肿瘤免疫]]></title>
+      <link>http://localhost:3000/items/fcg55kh0hcdhoxqa94snn0cwi</link>
+      <description><![CDATA[<p>研究发现BLTP3A是卵巢癌中溶酶体应激的解决因子，其功能缺失或M1098T变异会增强溶酶体损伤，从而持续激活STING通路并促进IFN-λ产生，重塑抗肿瘤免疫微环境。携带M1098T变异的患者总生存期更长，肿瘤中细胞毒性T细胞-髓系细胞区域富集。机制上，BLTP3A功能障碍破坏了CASM相关的溶酶体应激解决，导致STING信号持续而不增加cGAMP。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.25.752224v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/fcg55kh0hcdhoxqa94snn0cwi">http://localhost:3000/items/fcg55kh0hcdhoxqa94snn0cwi</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fcg55kh0hcdhoxqa94snn0cwi</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[碱基编辑器扫描绘制MAPK信号通路的化学-遗传相互作用图谱]]></title>
+      <link>http://localhost:3000/items/fb7417s60dlpyszcidt2h0tnb</link>
+      <description><![CDATA[<p>研究应用碱基编辑器扫描22个MAPK通路基因，构建了信号通路的化学-遗传相互作用图谱。分析发现耐药突变常出现在非直接药物靶点的蛋白中，并识别出KRAS N端的一个变构位点。研究还发现催化功能受损的CRAF突变体对结构相似的MEK抑制剂产生双向耐药和增敏作用。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.25.753639v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/fb7417s60dlpyszcidt2h0tnb">http://localhost:3000/items/fb7417s60dlpyszcidt2h0tnb</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fb7417s60dlpyszcidt2h0tnb</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[靶向抑制性中性粒细胞的染色质脆弱性可恢复抗肿瘤免疫]]></title>
+      <link>http://localhost:3000/items/dx5q9ugtxyw5shc48ets3tcq4</link>
+      <description><![CDATA[<p>研究发现肿瘤诱导的抑制性中性粒细胞依赖mSWI/SNF染色质重塑维持其病理状态。两种口服mSWI/SNF ATP酶拮抗剂（降解剂和催化抑制剂）在PD-1阻断耐药的同系肿瘤模型中实现免疫依赖性肿瘤控制，并增强检查点疗法疗效。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.26.754703v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/dx5q9ugtxyw5shc48ets3tcq4">http://localhost:3000/items/dx5q9ugtxyw5shc48ets3tcq4</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">dx5q9ugtxyw5shc48ets3tcq4</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[LENTRA平台通过系统性肿瘤细胞重编程将实体瘤转化为原位免疫治疗生物工厂]]></title>
+      <link>http://localhost:3000/items/bax28fvcf9v560g70ewfn7o6y</link>
+      <description><![CDATA[<p>LENTRA是一种抗原靶向慢病毒平台，可在体内选择性转导并遗传修饰肿瘤细胞，使其在肿瘤局部产生免疫检查点抑制剂、细胞因子或治疗性酶。在多种小鼠实体瘤模型中，局部产生抗CTLA-4或IL-12引发了强效抗肿瘤反应并避免了全身毒性。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.26.754636v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/bax28fvcf9v560g70ewfn7o6y">http://localhost:3000/items/bax28fvcf9v560g70ewfn7o6y</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bax28fvcf9v560g70ewfn7o6y</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[谷氨酰胺与GLS1是限制头颈鳞癌T细胞浸润和功能的关键代谢检查点]]></title>
+      <link>http://localhost:3000/items/auomof21ihcfg6tl6ym7bcuyv</link>
+      <description><![CDATA[<p>一项前瞻性研究发现头颈鳞癌（HNSCC）中肿瘤代谢重编程导致谷氨酰胺剥夺和谷氨酰胺酶-1（GLS1）高表达，这限制了T细胞向肿瘤的迁移并削弱其功能。药理学抑制或基因敲除GLS1可增强肿瘤对免疫细胞介导的细胞毒性和免疫检查点抑制剂的敏感性，其机制涉及破坏谷胱甘肽依赖的ROS防御、抑制肿瘤增殖和增加MHC表达。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.24.753717v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/auomof21ihcfg6tl6ym7bcuyv">http://localhost:3000/items/auomof21ihcfg6tl6ym7bcuyv</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">auomof21ihcfg6tl6ym7bcuyv</guid>
+      <author>noreply@localhost (bioRxiv Cancer Biology)</author>
+    </item>
+    <item>
+      <title><![CDATA[21种成人组织的单核多组学基因调控图谱]]></title>
+      <link>http://localhost:3000/items/gtebafzis35vnuhl30nlme0ra</link>
+      <description><![CDATA[<p>研究构建了一个包含21种成人组织、459,856个单核转录组和染色质可及性图谱，识别了超过100万个候选顺式调控元件及其与基因的关联。图谱揭示了细胞身份主导、组织环境微调的调控模式，并基于此训练了序列功能模型来预测548,656个精细定位变体的染色质可及性效应。</p>
+<p>🔗 <a href="https://www.biorxiv.org/content/10.64898/2026.09.25.754561v1?rss=1">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/gtebafzis35vnuhl30nlme0ra">http://localhost:3000/items/gtebafzis35vnuhl30nlme0ra</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gtebafzis35vnuhl30nlme0ra</guid>
+      <author>noreply@localhost (bioRxiv Genomics)</author>
+    </item>
+    <item>
+      <title><![CDATA[Iberdomide 联合达雷妥尤单抗和地塞米松 vs 达雷妥尤单抗、硼替佐米和地塞米松治疗复发难治多发性骨髓瘤的 3 期试验结果]]></title>
+      <link>http://localhost:3000/items/fafxsc3utgwl3kl1rn6333mz2</link>
+      <description><![CDATA[<p>Iberdomide 联合达雷妥尤单抗和地塞米松相比达雷妥尤单抗、硼替佐米和地塞米松显著提高了 MRD 阴性完全缓解率。最常见 3-4 级不良事件为血液学事件和感染，多数可通过标准支持治疗管理。这些结果支持该方案作为复发难治多发性骨髓瘤的有效治疗选择，且有望在不同诊疗场景中实施。</p>
+<p>🔗 <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00450-X/fulltext?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/fafxsc3utgwl3kl1rn6333mz2">http://localhost:3000/items/fafxsc3utgwl3kl1rn6333mz2</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Fri, 25 Sep 2026 14:00:02 GMT</pubDate>
+      <guid isPermaLink="false">fafxsc3utgwl3kl1rn6333mz2</guid>
+      <author>noreply@localhost (The Lancet Oncology)</author>
+    </item>
+    <item>
+      <title><![CDATA[礼来每周一次胰岛素Efsitora alfa获FDA批准用于2型糖尿病]]></title>
+      <link>http://localhost:3000/items/somut2hhffieeyolq8irl5za1</link>
+      <description><![CDATA[<p>FDA已批准礼来每周一次基础胰岛素Efsitora alfa（商品名Onswik）上市，用于联合饮食和运动控制2型糖尿病成人的高血糖。该药是融合蛋白类药物，将新型胰岛素单链变体与人IgG2-Fc结构域结合，通过Fc融合技术延长半衰期实现每周一次皮下注射。</p>
+<p>🔗 <a href="https://bydrug.pharmcube.com/news/detail/1a7c63452268c77f5c4efb9ad10b6b47">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/somut2hhffieeyolq8irl5za1">http://localhost:3000/items/somut2hhffieeyolq8irl5za1</a></p>]]></description>
+      <category>监管</category>
+      <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">somut2hhffieeyolq8irl5za1</guid>
+      <author>noreply@localhost (中文产业新闻（药渡/pharmcube · Vault）)</author>
+    </item>
+    <item>
+      <title><![CDATA[放疗对比观察在WHO 2级非典型脑膜瘤完全切除后的三期随机试验结果（ROAM/EORTC-1308）]]></title>
+      <link>http://localhost:3000/items/e9vwampmusbuj53x9uwommext</link>
+      <description><![CDATA[<p>ROAM/EORTC-1308三期随机试验显示，WHO 2级非典型脑膜瘤完全切除后辅助放疗可降低复发风险。研究者建议当预防复发优先于放疗潜在迟发副作用时考虑该方案，决策需基于个体化医患讨论。</p>
+<p>🔗 <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01804-0/fulltext?rss=yes">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/e9vwampmusbuj53x9uwommext">http://localhost:3000/items/e9vwampmusbuj53x9uwommext</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Fri, 25 Sep 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="false">e9vwampmusbuj53x9uwommext</guid>
+      <author>noreply@localhost (The Lancet)</author>
+    </item>
+    <item>
+      <title><![CDATA[诺和诺德CagriSema头对头替尔泊肽的Ⅲ期REIMAGINE 5研究达到主要终点]]></title>
+      <link>http://localhost:3000/items/xg7ld10jace4n5v2brg8xb390</link>
+      <description><![CDATA[<p>CagriSema（卡格列肽和司美格鲁肽）头对头替尔泊肽的Ⅲ期REIMAGINE 5研究达到主要终点。CagriSema对比安慰剂的减重Ⅲ期REDEFINE 9研究也达到主要终点。</p>
+<p>🔗 <a href="https://bydrug.pharmcube.com/news/detail/0daf867efa9362f0dc5242b1cec6ba8c">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/xg7ld10jace4n5v2brg8xb390">http://localhost:3000/items/xg7ld10jace4n5v2brg8xb390</a></p>]]></description>
+      <category>临床</category>
+      <pubDate>Fri, 25 Sep 2026 07:17:00 GMT</pubDate>
+      <guid isPermaLink="false">xg7ld10jace4n5v2brg8xb390</guid>
+      <author>noreply@localhost (中文产业新闻（药渡/pharmcube · Vault）)</author>
+    </item>
+    <item>
+      <title><![CDATA[人肠道染色质可及性的单细胞分析揭示克罗恩病的调控程序并阐明遗传关联]]></title>
+      <link>http://localhost:3000/items/wt9hd98pb2jw9272mlwn6fm76</link>
+      <description><![CDATA[<p>本研究使用单细胞 ATAC-seq 绘制了克罗恩病患者和健康对照肠道黏膜的染色质可及性图谱，以表征与炎症和遗传效应相关的调控程序。研究揭示了疾病特异性染色质可及性模式，并阐明了遗传变异如何通过调控元件影响疾病易感性。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41588-026-02755-z">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/wt9hd98pb2jw9272mlwn6fm76">http://localhost:3000/items/wt9hd98pb2jw9272mlwn6fm76</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">wt9hd98pb2jw9272mlwn6fm76</guid>
+      <author>noreply@localhost (Nature Genetics)</author>
+    </item>
+    <item>
+      <title><![CDATA[光不稳定寡核苷酸结合拓扑光梯度实现空间分辨的单细胞转录组与表观基因组分析]]></title>
+      <link>http://localhost:3000/items/cdp0ob8t37ryuzpedwwds3mrt</link>
+      <description><![CDATA[<p>研究团队开发了 scSTAMP-seq 方法，利用光不稳定寡核苷酸和数字微镜器件产生的拓扑光梯度，在单细胞水平上实现 mRNA、DNA 可及性和 DNA 甲基化的空间解析。该方法在人类 iPSC 来源的胃泌样体中验证了 CDX2、SOX17 等谱系标记基因的空间表达模式，并分析了染色质调节因子的分布。数据已存入 GEO（GSE237524），代码开源在 GitHub。</p>
+<p>🔗 <a href="https://www.nature.com/articles/s41587-026-03328-5">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/cdp0ob8t37ryuzpedwwds3mrt">http://localhost:3000/items/cdp0ob8t37ryuzpedwwds3mrt</a></p>]]></description>
+      <category>研究</category>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cdp0ob8t37ryuzpedwwds3mrt</guid>
+      <author>noreply@localhost (Nature Biotechnology)</author>
+    </item>
+    <item>
+      <title><![CDATA[FDA批准礼来每周一次长效基础胰岛素Onswik用于成人2型糖尿病]]></title>
+      <link>http://localhost:3000/items/v9cgdh1hbuq8j1dd0p2zsy0z9</link>
+      <description><![CDATA[<p>礼来开发的每周一次长效基础胰岛素Onswik（insulin efsitora alfa）获得美国FDA批准，用于成人2型糖尿病患者。该药物旨在减少注射频率，从每日一次变为每周一次。</p>
+<p>🔗 <a href="https://bydrug.pharmcube.com/news/detail/5024b6f13d566aa9fe81e2f7b8845e74">阅读原文</a></p>
+<p>via BioSignal · <a href="http://localhost:3000/items/v9cgdh1hbuq8j1dd0p2zsy0z9">http://localhost:3000/items/v9cgdh1hbuq8j1dd0p2zsy0z9</a></p>]]></description>
+      <category>监管</category>
+      <pubDate>Thu, 24 Sep 2026 22:16:00 GMT</pubDate>
+      <guid isPermaLink="false">v9cgdh1hbuq8j1dd0p2zsy0z9</guid>
+      <author>noreply@localhost (中文产业新闻（药渡/pharmcube · Vault）)</author>
+    </item>
+  </channel>
+</rss>
