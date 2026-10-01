@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T02:44:29.561Z",
+ "generatedAt": "2026-10-01T23:49:06.039Z",
  "items": [
   {
    "id": "sdztp18d23kk28rp3kj5vnlpi",
@@ -288,6 +288,22 @@
    "discoveredAt": "2026-09-30T16:58:13.885Z",
    "originalTitle": "Type 2 immune history trains lung macrophages for viral disease tolerance",
    "url": "https://www.nature.com/articles/s41586-026-11060-y"
+  },
+  {
+   "id": "ktxnr6ur6xn376y99n2pg70i7",
+   "score": 62,
+   "title": "恒瑞医药将口服GLP-1/GIP双激动剂HRS-1596大中华区外权益授权诺和诺德，潜在总额26亿美元",
+   "reason": "热度：5 个信源报道同一事件",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "恒瑞医药与诺和诺德达成许可协议，将口服GLP-1/GIP双受体激动剂HRS-1596的大中华区以外全球开发、生产和商业化独家权利授权给诺和诺德。交易潜在总金额最高达26亿美元，包括3亿美元首付款及后续开发、注册和商业化里程碑付款。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-29T12:00:00.000Z",
+   "discoveredAt": "2026-10-01T00:49:03.601Z",
+   "originalTitle": "26亿美元！恒瑞医药GLP-1新药授权诺和诺德",
+   "url": "https://bydrug.pharmcube.com/news/detail/c6af6a51daa820ac1e58a1fbe246777c"
   },
   {
    "id": "q0i2athskg03b5yiovidkb4cu",
@@ -594,22 +610,6 @@
    "url": "https://www.medrxiv.org/content/10.64898/2026.09.28.26364204v1?rss=1"
   },
   {
-   "id": "ohg05i8pvdu20i2jehwjvokv3",
-   "score": 45,
-   "title": "Novo 与恒瑞医药达成最高 26 亿美元合作，引入每周一次口服减重肽 HRS-1596",
-   "reason": "热度：5 个信源报道同一事件",
-   "source": {
-    "name": "BioSpace"
-   },
-   "summary": "诺和诺德支付 3 亿美元首付款，获得恒瑞医药每周一次口服 GLP-1R/GIPR 双激动剂 HRS-1596 的许可，该交易总额最高可达 26 亿美元。HRS-1596 已在中国获批开展针对体重管理和 2 型糖尿病的 1 期临床试验。分析师认为，这种每周一次的口服给药方案可能为诺和诺德现有的肥胖症产品组合提供长期差异化优势。",
-   "category": "industry",
-   "selected": true,
-   "publishedAt": "2026-09-29T12:33:27.000Z",
-   "discoveredAt": "2026-09-29T15:51:11.011Z",
-   "originalTitle": "Novo adds long-term obesity differentiation in up to $2.6B Hengrui deal",
-   "url": "https://www.biospace.com/business/novo-adds-long-term-obesity-differentiation-in-up-to-2-6b-hengrui-deal"
-  },
-  {
    "id": "wdhxycmssia9wn7ro8fijz8w0",
    "score": 45,
    "title": "FDA 向 Curia New York, Inc. 发出警告信，涉 CGMP 严重偏离",
@@ -624,6 +624,22 @@
    "discoveredAt": "2026-09-29T15:51:00.469Z",
    "originalTitle": "Curia New York, Inc. - 728790 - 09/18/2026",
    "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/curia-new-york-inc-728790-09182026"
+  },
+  {
+   "id": "mow4pxq25uwp8sojrcu7lnnlc",
+   "score": 43,
+   "title": "阿斯利康向 Summit Therapeutics 投资 20 亿美元",
+   "reason": "热度：2 家媒体同报 · 5 个信源报道同一事件",
+   "source": {
+    "name": "STAT News"
+   },
+   "summary": "阿斯利康向 Summit Therapeutics 投资了 20 亿美元。此外，诺和诺德以 3 亿美元首付款从恒瑞医药获得了一款每周一次口服 GLP-1/GIP 受体激动剂的全球（中国外）权益，潜在交易总额达 26 亿美元。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-29T13:52:51.000Z",
+   "discoveredAt": "2026-09-29T15:51:06.854Z",
+   "originalTitle": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
+   "url": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss"
   },
   {
    "id": "ph9wh2ru7h2wvsrlzb57yhbx9",
@@ -976,6 +992,22 @@
    "discoveredAt": "2026-09-29T15:51:06.885Z",
    "originalTitle": "Genomic correlates of metastatic competence and progression in human melanoma",
    "url": "https://www.biorxiv.org/content/10.64898/2026.09.23.753695v1?rss=1"
+  },
+  {
+   "id": "ezbptxqsjejamx5o6otlaboso",
+   "score": 60,
+   "title": "阿斯利康20亿美元入股Summit并达成临床合作，评估ADC联合依沃西治疗胃肠道癌症",
+   "reason": "热度：4 个信源报道同一事件",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "阿斯利康以20亿美元入股Summit Therapeutics。双方签署谅解备忘录，将推进依沃西与阿斯利康ADC药物及其他抗肿瘤药物的联合疗法临床探索。具体包括共同评估sonesitatug vedotin联合ivonescimab治疗特定胃肠道癌症的疗效，并计划尽快启动相关研究。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-29T02:17:00.000Z",
+   "discoveredAt": "2026-10-01T00:48:56.894Z",
+   "originalTitle": "20亿美元重注：阿斯利康入股Summit，推动ADC联合依沃西疗法",
+   "url": "https://bydrug.pharmcube.com/news/detail/310772e55cb2eb719c8cc96e62e6b712"
   },
   {
    "id": "j36kaz5t7mipylhbiha0k3dam",
@@ -2562,6 +2594,22 @@
    "url": "https://www.science.org/doi/abs/10.1126/science.aem6545?af=R"
   },
   {
+   "id": "l3iw0sy06pd95syflzz7u8f8f",
+   "score": 45,
+   "title": "Euchromatin forms condensed domains with short active regions on the surface",
+   "reason": null,
+   "source": {
+    "name": "Nature Genetics"
+   },
+   "summary": "结合 micro-C 和成像数据的模拟揭示了从核小体到簇再到结构域的染色质组织一致性视图。结果显示，大多数常染色质区域形成紧凑结构域，但短调控元件高度暴露于表面。该研究为理解染色质三维组织提供了新视角。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-09-25T00:00:00.000Z",
+   "discoveredAt": "2026-09-29T15:51:01.844Z",
+   "originalTitle": "Euchromatin forms condensed domains with short active regions on the surface",
+   "url": "https://www.nature.com/articles/s41588-026-02775-9"
+  },
+  {
    "id": "faf8awf3y3543e9zm6cxn5ifl",
    "score": 42,
    "title": "礼来与诺诚健华达成5靶点药物发现合作，首付款1亿美元及最高32.5亿美元里程碑付款",
@@ -2885,7 +2933,7 @@
    "id": "w12icts6ouecxa33kbpjvdukr",
    "score": 45,
    "title": "Anito-cel（一种d-结构域BCMA CAR-T细胞）治疗难治性或复发性骨髓瘤的1期研究",
-   "reason": "热度：X 浏览 9.4 万",
+   "reason": "热度：X 浏览 21 万",
    "source": {
     "name": "NEJM"
    },
@@ -2917,7 +2965,7 @@
    "id": "ttdllk24nzapqz4s4jkg9v709",
    "score": 43,
    "title": "Oya 病毒致重症肝炎、肠炎与凝血障碍病例报告",
-   "reason": null,
+   "reason": "热度：X 浏览 1.3 万",
    "source": {
     "name": "NEJM"
    },
@@ -2949,7 +2997,7 @@
    "id": "j0ci0ty298e2nhroq8zztuppe",
    "score": 40,
    "title": "Shwachman–Diamond 综合征的累积血液学发病率和结局",
-   "reason": "热度：X 浏览 1.1 万",
+   "reason": "热度：X 浏览 1.5 万",
    "source": {
     "name": "NEJM"
    },
@@ -3138,6 +3186,22 @@
    "url": "https://bydrug.pharmcube.com/news/detail/233127127849796cd5be898c5c4da237"
   },
   {
+   "id": "flpl0o5cm6t0wnfcch60xa2ph",
+   "score": 60,
+   "title": "安进CD40L抗体达佐利贝普干燥综合征三期试验取得积极顶线结果",
+   "reason": "原文提供了系统性干燥综合征三期试验的顶线结果，读者可以了解CD40L靶向治疗在这一适应症中的表现。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "安进宣布CD40L抗体达佐利贝普在中重度系统性干燥综合征三期临床试验中取得积极顶线结果，在系统性疾病活动度方面展现出统计学显著且具有临床意义的改善。结果支持为这一自身免疫性疾病患者提供潜在的新颖治疗选择。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-22T13:43:00.000Z",
+   "discoveredAt": "2026-10-01T01:39:10.266Z",
+   "originalTitle": "安进CD40L干燥症3期成功",
+   "url": "https://bydrug.pharmcube.com/news/detail/714ab116c504abba90554f9001e4709d"
+  },
+  {
    "id": "fc94sp9lp83uc8zg4gropp7ti",
    "score": 58,
    "title": "TRAM通过释放原myddosome促进Toll样受体非依赖的信号转导",
@@ -3285,7 +3349,7 @@
    "id": "wxo0mytu96ahajbteig1pc63d",
    "score": 34,
    "title": "Bat1K 联盟发布 103 个染色体级别蝙蝠基因组，结合化石修订蝙蝠科级系统发育与生物地理学",
-   "reason": "热度：X 浏览 3243",
+   "reason": "热度：X 浏览 2.3 万",
    "source": {
     "name": "Nature"
    },
@@ -3408,6 +3472,38 @@
    "discoveredAt": "2026-10-01T01:54:24.696Z",
    "originalTitle": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma.",
    "url": "https://doi.org/10.1038/s41591-026-04625-x"
+  },
+  {
+   "id": "mmuzxzk3a2ijjwbwthta7wbj7",
+   "score": 63,
+   "title": "翰森制药TYK2抑制剂HS-10374三期临床达到共同主要终点",
+   "reason": "原文给出了两项共同主要终点的具体定义和统计学显著优于安慰剂的结果，读者可以据此评估该TYK2抑制剂在银屑病治疗中的潜力。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "翰森制药宣布其TYK2抑制剂HS-10374在治疗成人中重度斑块状银屑病的关键三期临床试验中达到共同主要终点和多项次要终点。治疗第16周，HS-10374组达到PASI 75和sPGA 0/1的患者比例均显著优于安慰剂对照组。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-21T08:18:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:43.424Z",
+   "originalTitle": "翰森制药TYK2抑制剂HS-10374 III期临床成功，银屑病治疗再添新候选药物",
+   "url": "https://bydrug.pharmcube.com/news/detail/f430cbb5d76137bec8e65de6c64193ef"
+  },
+  {
+   "id": "vfulo2456xliqofggt6a575t2",
+   "score": 62,
+   "title": "粪菌移植一线治疗免疫检查点抑制剂相关腹泻/结肠炎",
+   "reason": "文章引用了MD安德森癌症中心团队关于粪菌移植作为一线治疗的数据，为处理免疫治疗相关腹泻提供了具体的时间效率和缓解率参考。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "MD安德森癌症中心团队研究显示，将粪菌移植用于免疫检查点抑制剂相关腹泻/结肠炎的一线治疗，患者症状中位1.5天开始缓解，76.9%获得临床缓解，超过80%患者得以重启抗癌治疗。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-21T06:09:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:49.976Z",
+   "originalTitle": null,
+   "url": "https://bydrug.pharmcube.com/news/detail/412cfcb1c12b706fc2be978f071f67f8"
   },
   {
    "id": "m1rhkwgcebg2c2mv5sv8hwavk",
@@ -3682,6 +3778,38 @@
    "url": "https://bydrug.pharmcube.com/news/detail/f0ecfb9acfe9ad5896de4014e2e9a98e"
   },
   {
+   "id": "l1c9aphywrvhke92owclx1tmk",
+   "score": 65,
+   "title": "国家医保局联合卫健委发文支持干细胞药物纳入医保支付",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "国家医保局联合国家卫健委印发《支持创新药高质量发展的若干措施》，出台16项配套政策打通干细胞药物从研发、临床到医保支付全链条。政策明确干细胞药物合法药品身份并建立双支付渠道解决高价用药问题。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-20T10:08:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:36.668Z",
+   "originalTitle": "政策突破！“合法+能报销”，干细胞疗法迈入创新药医保通道",
+   "url": "https://bydrug.pharmcube.com/news/detail/0b6da38a0734ba55aebe7345e6152ff7"
+  },
+  {
+   "id": "pj01h9siqtiilnmo22hph3yhv",
+   "score": 65,
+   "title": "药捷安康捷恩泰®在中国开出首张处方，正式进入临床应用",
+   "reason": "原文记录了全球首个获批用于FGFR抑制剂治疗进展后胆管癌的靶向药物在中国首次临床应用，为晚期耐药患者提供了新选择。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "药捷安康捷恩泰®在中国开出首张处方，标志着这一全球首个获批用于FGFR抑制剂治疗进展后胆管癌的靶向药物正式进入临床应用。中国晚期胆管癌耐药患者自此有了可及的治疗新选择。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-20T10:43:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:36.505Z",
+   "originalTitle": "首方落地！药捷安康捷恩泰®正式进入临床应用",
+   "url": "https://bydrug.pharmcube.com/news/detail/db1fc0967a9d6a2e0281987ea5850ca5"
+  },
+  {
    "id": "ylr8eo7fgapukwzlxx4y1j0ux",
    "score": 65,
    "title": "FDA批准非奈利酮用于1型糖尿病相关慢性肾脏病",
@@ -3698,6 +3826,54 @@
    "url": "https://bydrug.pharmcube.com/news/detail/89aafaede74c98819f1642a1858d4f22"
   },
   {
+   "id": "xz6lqdbl2559520ecnj7rubwb",
+   "score": 63,
+   "title": "依沃西单抗用于三代EGFR-TKI耐药NSCLC患者PFS达16.9个月",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "依沃西单抗获NMPA批准用于EGFR-TKI治疗进展的局部晚期或转移性非鳞状NSCLC。该方案中位无进展生存期达16.9个月，破解了三代EGFR-TKI耐药难题。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-20T12:00:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:29.840Z",
+   "originalTitle": "PFS 16.9个月丨依沃西方案破解三代EGFR-TKI耐药难题，来带长期生存获益",
+   "url": "https://bydrug.pharmcube.com/news/detail/ea64d9d593f6d95fdc05456afce1e3f6"
+  },
+  {
+   "id": "q5mxslpr1r8fnxi3056tstf0j",
+   "score": 62,
+   "title": "Ultragenyx 基因疗法 FAYUVI 获 FDA 批准用于 MPS IIIA，定价 395 万美元",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "美国 FDA 于 9 月 17 日批准 Ultragenyx Pharmaceutical 开发的基因疗法 FAYUVI (rebisufligene etisparvovec-hopf, UX111) 上市，用于治疗黏多糖贮积症 IIIA 型儿童患者。该疗法在美国的定价为每剂 395 万美元，成为仅次于 Lenmeldy (425 万美元) 的全球第二昂贵药物。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-20T11:49:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:29.896Z",
+   "originalTitle": "又一罕见病基因疗法FDA获批，395万美元一针",
+   "url": "https://bydrug.pharmcube.com/news/detail/595e9aa51205a4fe143e582a07387267"
+  },
+  {
+   "id": "r6kxb8h9sl9wcm4skrmby8hrr",
+   "score": 62,
+   "title": "Telix 以约16.5亿美元收购ITM Isotope Technologies Munich",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "澳大利亚Telix制药公司同意以约16.5亿美元收购德国ITM Isotope Technologies Munich SE。交易完成后，Telix现有股东将持有合并后公司约76.3%的股份，ITM股东持有约23.7%。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-21T03:50:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:50.110Z",
+   "originalTitle": "Telix 16.5亿美元收购ITM：澳洲核药巨头整合德国同位素龙头",
+   "url": "https://bydrug.pharmcube.com/news/detail/3bb91fb79125cc20b84f5cea57ea9fd8"
+  },
+  {
    "id": "f7gp9rmyt6p6fb1hqemag3957",
    "score": 61,
    "title": "复旦大学余发星团队在Cell Stem Cell发表器官尺寸调控与衰老再生机制研究",
@@ -3712,6 +3888,38 @@
    "discoveredAt": "2026-10-01T01:38:29.870Z",
    "originalTitle": "Cell Stem Cell | 复旦大学余发星及合作团队揭示器官尺寸调控与器官衰老再生新机制",
    "url": "https://bydrug.pharmcube.com/news/detail/919e66a2fdb8d000227552265b8760e1"
+  },
+  {
+   "id": "x875f4kvmkit14wjtq865y8db",
+   "score": 61,
+   "title": "恩沃利单抗联合GEMOX方案获2026版CSCO胆道癌指南Ⅰ级推荐",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "2026版CSCO胆道恶性肿瘤诊疗指南将恩沃利单抗联合吉西他滨+奥沙利铂（GEMOX）方案新增为不可切除局部晚期或转移性胆道癌一线治疗Ⅰ级推荐（ⅠA类证据）。该推荐基于一项纳入462例中国患者的Ⅲ期临床试验数据。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-20T12:03:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:29.807Z",
+   "originalTitle": "写入2026CSCO指南Ⅰ级推荐! 晚期胆道癌迎来首个本土免疫治疗一线方案",
+   "url": "https://bydrug.pharmcube.com/news/detail/7b12d9fa57d2cb5b209c333a9ed975d5"
+  },
+  {
+   "id": "ikruzr9tkz2vjumi7aik95m8e",
+   "score": 60,
+   "title": "苏州中化药品维乐宁®（沙库巴曲缬沙坦钠片100mg）获NMPA批准上市",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "苏州中化药品研发的维乐宁®（沙库巴曲缬沙坦钠片100mg）正式获得NMPA批准上市，用于射血分数降低的慢性心力衰竭（NYHA II-IV级，LVEF≤40%）成人患者。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-21T00:53:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:16.328Z",
+   "originalTitle": "双靶点，心安宁 | 会员单位-苏州中化药品维乐宁®（沙库巴曲缬沙坦钠片100mg）获批上市",
+   "url": "https://bydrug.pharmcube.com/news/detail/51568faee8aeecb6e6b0973de8b485d2"
   },
   {
    "id": "ppb0eidg32y8yyp18jwixzd0j",
@@ -3874,22 +4082,6 @@
    "url": "https://clinicaltrials.gov/study/NCT00601796"
   },
   {
-   "id": "iipov9u2ye4f42rfwr3vrnub1",
-   "score": 28,
-   "title": "BMS-986016 (Relatlimab)联合常规免疫疗法治疗复发性或转移性鼻咽癌的二期临床试验",
-   "reason": null,
-   "source": {
-    "name": "文献与产业新闻（bio-brief · Vault）"
-   },
-   "summary": "一项二期临床试验正在评估在初始治疗后，将BMS-986016 (Relatlimab)添加到常规免疫疗法中治疗复发性或转移性鼻咽癌的效果。该研究由美国国家癌症研究所赞助，目前处于患者招募阶段。",
-   "category": "clinical",
-   "selected": true,
-   "publishedAt": "2026-09-20T16:00:00.000Z",
-   "discoveredAt": "2026-10-01T00:46:02.501Z",
-   "originalTitle": "Testing the Addition of BMS-986016 (Relatlimab) to the Usual Immunotherapy After Initial Treatment for Recurrent or Metastatic Nasopharyngeal Cancer",
-   "url": "https://clinicaltrials.gov/study/NCT06029270"
-  },
-  {
    "id": "v91j1k0haenwbjx1pthlovdss",
    "score": 66,
    "title": "AI模型Ataraxis CTX在TAILORx试验中识别HR+/HER2-乳腺癌中危患者的化疗获益",
@@ -3970,6 +4162,70 @@
    "url": "https://www.nejm.org/doi/full/10.1056/NEJMp2609007?af=R&rss=currentIssue"
   },
   {
+   "id": "n73ez1dfnniu000hkwcrwo3o3",
+   "score": 69,
+   "title": "WCLC：Tam-Peli（B7-H3 ADC）改善复发性SCLC生存；Daraxonrasib在RAS突变NSCLC中显示活性",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "在世界肺癌大会（WCLC）上公布的数据显示，Tam-Peli（B7-H3 ADC）在复发性小细胞肺癌（SCLC）中显著改善总生存期，Tam-Peli组中位OS为13.3个月，对照组为9.4个月（HR 0.46，P<0.001）。RAS（ON）抑制剂Daraxonrasib在RAS突变非小细胞肺癌（NSCLC）中也显示出强劲活性。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-18T12:00:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:16.176Z",
+   "originalTitle": "WCLC重磅 | 同步发表NEJM：Tam-Peli（B7-H3 ADC）显著改善复发性SCLC生存；RAS（ON）抑制剂Daraxonrasib在RAS突变NSCLC中显示强劲活性",
+   "url": "https://bydrug.pharmcube.com/news/detail/13064c6355933e92c134a33d1cd396e6"
+  },
+  {
+   "id": "a4o41q9fbpi5w7isoopwo3rhx",
+   "score": 65,
+   "title": "礼来塞普替尼片剂在中国获批",
+   "reason": "这是塞普替尼片剂剂型首次在国内获批，为RET基因融合阳性非小细胞肺癌等患者提供了新的口服选择。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "礼来塞普替尼片剂在中国获批，这是该药片剂剂型首次在国内获批。塞普替尼是一种高选择性RET激酶抑制剂，适用于RET基因融合阳性的局部晚期或转移性非小细胞肺癌成人患者、RET突变型甲状腺髓样癌以及RET融合阳性甲状腺癌成人和12岁及以上儿童患者。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-18T11:55:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:16.198Z",
+   "originalTitle": "礼来塞普替尼片剂获批！",
+   "url": "https://bydrug.pharmcube.com/news/detail/1b1b59d23a9e09456d69b2e3bbc5f67c"
+  },
+  {
+   "id": "dzt8pdi13071yg6wxw9xa3pch",
+   "score": 65,
+   "title": "FDA批准拜耳非奈利酮扩展至1型糖尿病肾病",
+   "reason": "这是30多年来FDA针对1型糖尿病肾病批准的首个新疗法，为这一长期缺乏治疗选择的患者群体提供了新选项。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "FDA已批准拜耳的可申达®（非奈利酮片）用于降低1型糖尿病相关慢性肾脏病成人患者的尿白蛋白/肌酐比值。这是30多年来FDA针对该适应症批准的首个全新治疗选择，也是非奈利酮自2021年首次获批以来的第三项适应症。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-18T11:55:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:16.202Z",
+   "originalTitle": "FDA批准拜耳可申达扩展至1型糖尿病肾病",
+   "url": "https://bydrug.pharmcube.com/news/detail/36d0bca02e892dff5042b867a71d0eab"
+  },
+  {
+   "id": "tdkmujjfmtb2vqnvcxz0v2s1l",
+   "score": 65,
+   "title": "礼来 RET 抑制剂塞普替尼片在中国获批上市",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "礼来制药 5.1 类新药塞普替尼片在中国获批上市。这是塞普替尼片剂剂型首次在中国获批，该药是全球首款获批的高选择性 RET 抑制剂。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-18T12:00:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:16.166Z",
+   "originalTitle": "全球首款RET抑制剂片剂在华获批",
+   "url": "https://bydrug.pharmcube.com/news/detail/caf3b021fa8408e955153435704f3e5b"
+  },
+  {
    "id": "lbw6i8g3f1gwtw3xuhwpm3p9a",
    "score": 62,
    "title": "TRI-611：一种选择性、脑渗透性ALK分子胶降解剂",
@@ -3984,6 +4240,22 @@
    "discoveredAt": "2026-10-01T01:53:31.997Z",
    "originalTitle": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK.",
    "url": "https://doi.org/10.1038/s41586-026-10998-3"
+  },
+  {
+   "id": "a53jbt3p5orhvzt0l1i4lnl9n",
+   "score": 60,
+   "title": "TACE联合'双艾'方案纳入CSCO原发性肝癌指南2026版I级推荐",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "TACE联合'双艾'方案被纳入《CSCO原发性肝癌指南2026版》I级推荐、1A类证据。该推荐基于CARES-336三期临床试验数据。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-18T12:00:00.000Z",
+   "discoveredAt": "2026-10-01T01:38:16.171Z",
+   "originalTitle": "🦁热烈祝贺TACE联合“双艾”方案纳入《CSCO原发性肝癌指南2026版》I级推荐、1A类证据CARES-336 · Ⅲ期循证 · 中国原创 · 国际发声",
+   "url": "https://bydrug.pharmcube.com/news/detail/e944644706c1a17db16c2947bce66638"
   },
   {
    "id": "l29ms5p5cx7wlncgxxb2hec6f",
@@ -4066,6 +4338,38 @@
    "url": "https://doi.org/10.1126/sciadv.aef1694"
   },
   {
+   "id": "vqqjh2utuno9ksc2epslzws5m",
+   "score": 67,
+   "title": "正大天晴HER2双抗ADC TQB2102治疗HER2低表达乳腺癌三期临床达到主要终点",
+   "reason": "原文提供了HER2低表达乳腺癌适应症的关键临床终点结果，读者可据此评估该双抗ADC的疗效潜力。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "正大天晴HER2双抗ADC新药TQB2102在三期临床研究TQB2102-III-01中达到预设的主要终点和关键次要终点。该研究针对HER2低表达复发/转移性乳腺癌患者，经独立数据监查委员会判定期中分析结果符合预期。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-17T11:35:00.000Z",
+   "discoveredAt": "2026-10-01T01:37:42.465Z",
+   "originalTitle": "正大天晴HER2双抗ADC低表达乳腺癌Ⅲ期临床达到预期",
+   "url": "https://bydrug.pharmcube.com/news/detail/943f0141d7006bcf1f4bec8bc7c728ab"
+  },
+  {
+   "id": "zwb1bm0dy3zhzz8bizjafp0sq",
+   "score": 66,
+   "title": "康方生物AK112在HARMONi-2试验中显示总生存期显著获益",
+   "reason": "该报道提供了AK112与帕博利珠单抗头对头比较的详细总生存期数据，包括风险比和具体月数，便于读者评估其在晚期非小细胞肺癌一线的潜在优势。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "康方生物AK112在三期试验HARMONi-2中，相比帕博利珠单抗单药，显著改善晚期一线TPS≥1%野生型非小细胞肺癌患者的总生存期，中位OS为30.75个月（vs 22.57个月），死亡风险降低27%（HR未提供具体数值）。该研究还计划进行三次OS分析，本次为关键次要终点结果。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-18T00:38:00.000Z",
+   "discoveredAt": "2026-10-01T01:37:22.294Z",
+   "originalTitle": "康方生物：H2 OS显著获益，H7成功概率提升的同时市场价值亦在攀升",
+   "url": "https://bydrug.pharmcube.com/news/detail/1804bd4a89764978e7cf94701f1e5277"
+  },
+  {
    "id": "it28bf7892ovmbvgcqy4aaq7j",
    "score": 64,
    "title": "LATA试验：撒哈拉以南非洲青少年HIV感染者每8周注射卡博特韦-利匹韦林维持病毒学抑制的96周非劣效性研究",
@@ -4080,6 +4384,38 @@
    "discoveredAt": "2026-09-30T04:41:38.688Z",
    "originalTitle": "[Articles] Switch to injectable cabotegravir–rilpivirine given every 8 weeks in adolescents living with HIV with virological suppression in sub-Saharan Africa (LATA): a randomised, open-label, multicentre, 96-week non-inferiority trial",
    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01537-0/fulltext?rss=yes"
+  },
+  {
+   "id": "wp0u1h5q7xlc2q94rmvgsyydu",
+   "score": 62,
+   "title": "B7-H3靶向ADC药物Tam-Peli在小细胞肺癌中使死亡风险降低54%",
+   "reason": "文章报道了B7-H3靶向ADC药物在小细胞肺癌中死亡风险降低54%的数据，为这一难治癌种提供了新的治疗希望。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "在WCLC大会上公布的临床数据显示，靶向B7-H3的ADC药物Tam-Peli用于小细胞肺癌治疗，可使患者死亡风险降低54%。小细胞肺癌恶性度高、进展迅速，治疗选择有限。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-17T10:30:00.000Z",
+   "discoveredAt": "2026-10-01T01:37:49.101Z",
+   "originalTitle": "小细胞肺癌的中国方案！死亡风险降低54%",
+   "url": "https://bydrug.pharmcube.com/news/detail/2779e18f9d6e304d8cb688487415b1ce"
+  },
+  {
+   "id": "ym5z11qfqxfs942ab773al09o",
+   "score": 62,
+   "title": "张磊/胡群/杨仁池/肖啸团队完成中国青少年血友病B基因治疗1期临床试验",
+   "reason": "这项研究展示了AAV基因疗法在青少年血友病B患者中的安全性和有效性数据，为亚洲首个同类疗法提供了临床证据。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "研究团队完成了中国青少年血友病B基因治疗的1期临床试验，通过肝脏靶向AAV递送FIX-Padua基因。全球已有3个血友病B基因治疗产品获批上市，其中BBM-H901（波哌达可基）是亚洲首个AAV血友病B基因治疗产品，由信念医药肖啸教授团队研发。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-17T10:26:00.000Z",
+   "discoveredAt": "2026-10-01T01:37:49.118Z",
+   "originalTitle": "Nat Med | 张磊/胡群/杨仁池/肖啸团队合作完成中国青少年血友病B基因治疗1期临床试验",
+   "url": "https://bydrug.pharmcube.com/news/detail/51741673c78455b1a1136e2f5b15eecb"
   },
   {
    "id": "jx949nttn6ucbb4z7j5cfhzu7",
@@ -5477,7 +5813,7 @@
    "id": "wzge1szcaq78r6e65134r8hpc",
    "score": 67,
    "title": "IL-15 和 IL-21 共表达 CAR-T 细胞疗法实现肝母细胞瘤完全消退",
-   "reason": null,
+   "reason": "热度：X 浏览 15 万",
    "source": {
     "name": "顶刊论文（社媒热度 · Vault）"
    },
@@ -5632,6 +5968,22 @@
    "discoveredAt": "2026-10-01T01:53:51.792Z",
    "originalTitle": "Clinical usability of an explainable AI decision support tool and evaluation of multimodal models in NSCLC.",
    "url": "https://doi.org/10.1038/s41591-026-04488-2"
+  },
+  {
+   "id": "xsp8dy9i6of8z8uc0n6vfl84k",
+   "score": 53,
+   "title": "英国监管机构计划因数据不可靠撤回血管炎药物 Tavneos",
+   "reason": "热度：X 浏览 4289",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "英国监管机构计划撤回血管炎药物 Tavneos，原因是数据不可靠。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-11T18:36:02.000Z",
+   "discoveredAt": "2026-10-01T01:53:45.204Z",
+   "originalTitle": "UK regulator plans to withdraw controversial vasculitis drug Tavneos over unreliable data.",
+   "url": "https://doi.org/10.1136/bmj-2026-100740"
   },
   {
    "id": "z6l1r5gsqisyv37xt5tcsyh2x",
@@ -6437,7 +6789,7 @@
    "id": "a7b4l6legcdta9lm4tojuiead",
    "score": 61,
    "title": "移植猪肾脏在桥接研究中存活创纪录的271天",
-   "reason": null,
+   "reason": "热度：X 浏览 2.1 万",
    "source": {
     "name": "顶刊论文（社媒热度 · Vault）"
    },
@@ -6944,6 +7296,22 @@
    "discoveredAt": "2026-10-01T01:53:25.347Z",
    "originalTitle": "Carbon ion irradiation at a clinically used dose rewires super-enhancers to drive necroptosis and systemic immunity.",
    "url": "https://doi.org/10.1126/sciadv.aec7590"
+  },
+  {
+   "id": "h7jcb59yxso6ae2fdt5vd3mbe",
+   "score": 65,
+   "title": "泰诺麦博 RSV 单抗芮特韦拜单抗获 NMPA 批准上市，单次注射保护 9 个月",
+   "reason": "这款长效 RSV 单抗的保护期比进口产品延长近一倍，为全年流行地区提供了更完整的覆盖方案。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "泰诺麦博的重组抗 RSV 全人源单抗芮特韦拜单抗（新多妥）获 NMPA 批准上市，用于新生儿和婴儿预防 RSV 下呼吸道感染。III 期临床试验显示，单次注射后 9 个月内对需就医的 RSV 下呼吸道感染保护效力为 69.9%，对严重感染保护效力为 90.2%。该药采用 120mg 固定规格，无需按体重调整剂量。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-07T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T01:42:08.718Z",
+   "originalTitle": "全球首款1针1次给药保护9个月抗RSV单抗——新多妥获批上市",
+   "url": "https://bydrug.pharmcube.com/news/detail/02f565f0e2c4efb81921d7b5d16ff07d"
   },
   {
    "id": "jexnmy2ywgxabge72zuizslq9",
