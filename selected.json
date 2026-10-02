@@ -1,6 +1,326 @@
 {
- "generatedAt": "2026-10-01T23:49:06.039Z",
+ "generatedAt": "2026-10-02T00:34:42.586Z",
  "items": [
+  {
+   "id": "cjpvu55v01jiupokzacqin24n",
+   "score": 74,
+   "title": "MAVERICK 三期：SCLC 中单纯 MRI 监测的认知保护优于 PCI 联合方案",
+   "reason": "MAVERICK 三期给出了 PCI 与单纯 MRI 监测在 SCLC 中直接对比的随机数据，原文提供了认知终点的风险比和置信区间。",
+   "source": {
+    "name": "The Lancet Oncology"
+   },
+   "summary": "ASTRO 2026 年会上报告的 SWOG S1827 MAVERICK 三期纳入 304 例完成初始治疗的局限期和广泛期 SCLC 患者，随机比较 PCI 联合 MRI 与单纯 MRI 监测，中位随访 22 个月，单纯 MRI 监测组的主要终点认知无失败生存显著优于 PCI 联合 MRI 组（HR 0·60，90% CI 0·46–0·78；p=0·001）。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-10-01T22:30:03.000Z",
+   "discoveredAt": "2026-10-01T23:05:40.182Z",
+   "originalTitle": "[News] 2026 ASTRO Annual Meeting",
+   "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00530-9/fulltext?rss=yes"
+  },
+  {
+   "id": "cn9gif1bwdk5lq66jfyl88e5k",
+   "score": 65,
+   "title": "赛诺菲与再生元扩大联盟，将共同开发四款IL靶向长效抗体",
+   "reason": "原文给出10亿美元首付款与最高70亿美元里程碑金额，并交代Dupixent关键专利将在五年内到期，读者可据此判断联盟扩大的财务体量与战略动机。",
+   "source": {
+    "name": "BioPharma Dive"
+   },
+   "summary": "赛诺菲与再生元扩大长期联盟，将共同开发并商业化四款由再生元发明的长效抗体，靶向IL-13、IL-4或IL-4亚基。再生元将获得10亿美元首付款，并有望获得最高70亿美元里程碑付款，双方将平分成本与利润；进展最快的REGN20423已在早期临床试验中评估湿疹适应症，另外三款预计明年进入人体试验。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-10-01T15:38:00.000Z",
+   "discoveredAt": "2026-10-01T16:06:34.348Z",
+   "originalTitle": "Sanofi, Regeneron broaden alliance to find their next Dupixent",
+   "url": "https://www.biopharmadive.com/news/sanofi-regeneron-alliance-expanded-dupixent-immunology-drugs-development/831894/"
+  },
+  {
+   "id": "l6qb4usftyz2rdbi8kd1q8sr2",
+   "score": 55,
+   "title": "BMS 三期 ALOFT 试验 admilparant 报告肝损伤事件及一例死亡",
+   "reason": "BMS 明确试验尚未揭盲且 IDMC 建议继续，读者可据此把已报告的肝损伤信号与四季度 ALOFT-IPF 顶线读出分开评估。",
+   "source": {
+    "name": "BioSpace"
+   },
+   "summary": "百时美施贵宝（BMS）在三期 ALOFT 项目肺纤维化候选药 admilparant 的方案修订中披露多例肝损伤事件及一例多器官功能衰竭死亡。BMS 表示数据尚未揭盲，无法判断该死亡患者是否在用 admilparant；独立数据监查委员会建议试验继续，ALOFT-IPF 四季度顶线读出按计划推进。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-10-01T14:57:42.000Z",
+   "discoveredAt": "2026-10-01T15:05:34.262Z",
+   "originalTitle": "BMS reports liver injury events in lung disease program, with key readout near",
+   "url": "https://www.biospace.com/drug-development/bms-reports-liver-injury-events-in-lung-disease-program-with-key-readout-near"
+  },
+  {
+   "id": "l0x6e47ax755tni71rm3wzsn5",
+   "score": 54,
+   "title": "FDA批准首款可随儿童生长扩展的肺动脉瓣膜Autus Size-Adjustable Valve",
+   "reason": "原文给出62例儿科患者临床数据，并点出合成瓣叶与可扩展设计相对传统动物组织瓣膜的差异，读者可据此评估其减少儿童多次开胸手术的潜力。",
+   "source": {
+    "name": "FDA Press Releases"
+   },
+   "summary": "FDA于2026年10月1日批准Edwards Lifesciences（由Autus Valve Technologies Inc.开发）的Autus Size-Adjustable Valve，这是首款专为儿童设计的可随生长扩展的肺动脉瓣膜，也是FDA首次批准采用高分子聚合物瓣叶的瓣膜，适用于先天性肺动脉瓣疾病患儿。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-10-01T19:02:08.000Z",
+   "discoveredAt": "2026-10-01T23:26:35.125Z",
+   "originalTitle": "FDA Approves First Heart Valve Designed to Grow with Children",
+   "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"
+  },
+  {
+   "id": "yu0bfxxsdsnii161ahh5dfvln",
+   "score": 54,
+   "title": "Foghorn 在与礼来合作终止后裁员约 40%",
+   "reason": "原文披露合作首付款 $300M 与停止推进的具体临床原因，可作为同类合作终止后小型公司管线取舍的参照。",
+   "source": {
+    "name": "BioSpace"
+   },
+   "summary": "Foghorn Therapeutics 因与礼来终止肿瘤药物合作裁员约 40%，员工将缩减至约 65 人。双方审阅 FHD-909（LY4050784）一期剂量递增数据后决定不将该 SMARCA2 小分子推进至扩展阶段，也不再推进选择性 SMARCA2 降解剂项目。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-10-01T14:51:11.000Z",
+   "discoveredAt": "2026-10-01T15:05:34.270Z",
+   "originalTitle": "Foghorn lays off 40% of staff after Lilly collaboration ends",
+   "url": "https://www.biospace.com/job-trends/foghorn-lays-off-40-of-staff-after-lilly-collaboration-ends"
+  },
+  {
+   "id": "s52mzpim4ivl95t3vlzaichla",
+   "score": 53,
+   "title": "HHS 启动新项目加速美国临床试验，应对中国竞争压力",
+   "reason": "原文给出美中澳在临床试验启动速度和成本上的具体差距，并点出 Surpass 五年计划用无分阶段设计替代传统三期体系的思路。",
+   "source": {
+    "name": "BioPharma Dive"
+   },
+   "summary": "HHS 启动五年计划 Surpass 以加速美国临床试验，并推动 ARPA-H 三个配套项目，目标将新药开发周期缩短一半、成本降低十倍。背景是 2021 年中国全球一期临床试验份额首次超过美国，2024 年总注册试验数也超过美国；澳大利亚可比美国提前 6–12 个月启动试验，成本约为一半。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-10-01T15:06:05.000Z",
+   "discoveredAt": "2026-10-01T17:07:33.036Z",
+   "originalTitle": "HHS kicks off new programs to speed clinical trials as Chinese competition looms",
+   "url": "https://www.biopharmadive.com/news/hhs-clinical-trial-speed-arpa-h-drug-testing/831909/"
+  },
+  {
+   "id": "vimyehrm2ckd92fclwpbch6z0",
+   "score": 51,
+   "title": "FDA对未获批GLP-1减重药物发布安全警示",
+   "reason": "FDA在文中汇总了对复方GLP-1药物的多项安全关切、已收到的不良事件数据和对处方者与患者的操作建议，可作为辨别合规与风险版本的参考。",
+   "source": {
+    "name": "FDA Drugs"
+   },
+   "summary": "FDA发布对未获批GLP-1药物用于减重的安全警示，指出复方版本未经审评即上市，存在安全、有效性与质量隐患，涵盖复方semaglutide、tirzepatide及retatrutide、cagrilintide等。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-10-01T04:00:39.000Z",
+   "discoveredAt": "2026-10-01T05:16:21.800Z",
+   "originalTitle": "FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+   "url": "http://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
+  },
+  {
+   "id": "f6p4mqf9z49ro8dcahbr3up7m",
+   "score": 47,
+   "title": "ARPA-H推出SURPASS等AI驱动计划重塑美国临床试验体系",
+   "reason": null,
+   "source": {
+    "name": "BioSpace"
+   },
+   "summary": "美国ARPA-H推出SURPASS计划，借助AI、数字孪生与实时计算模型加快临床试验、减少所需入组患者。计划包含无阶段设计引擎、持续推理引擎和智能体运营层三大方向，并同步发布STACK、COMMONS、CINCH三个配套项目，分别聚焦临床中心激活、跨机构数据共享与患者参与。HHS称此举意在扭转美国临床试验数量相对中国下滑的局面。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-10-01T14:12:07.000Z",
+   "discoveredAt": "2026-10-01T15:05:34.282Z",
+   "originalTitle": "US government launches AI-driven programs to overhaul clinical trials",
+   "url": "https://www.biospace.com/drug-development/us-government-launches-ai-driven-programs-to-overhaul-clinical-trials"
+  },
+  {
+   "id": "b1tnb6spo5e4mef918kcjzqj5",
+   "score": 42,
+   "title": "EASD26：勃林格殷格翰减重候选药在糖尿病与肥胖患者中落后于竞品",
+   "reason": null,
+   "source": {
+    "name": "Endpoints News"
+   },
+   "summary": "勃林格殷格翰在EASD26年会上公布，其减重候选药在肥胖合并2型糖尿病患者的三期试验中实现最高9.8%的体重降幅。该效果落后于同类竞品。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-10-01T07:30:26.000Z",
+   "discoveredAt": "2026-10-01T08:33:48.064Z",
+   "originalTitle": "#EASD26: Boehringer's weight loss candidate trails rivals in diabetes and obesity",
+   "url": "https://endpoints.news/easd26-boehringer-weight-loss-candidate-trails-rivals-in-diabetes-and-obesity/"
+  },
+  {
+   "id": "pj4jj29tyfq3x195sy12gmglg",
+   "score": 42,
+   "title": "礼来退出 Foghorn 合成致死药物开发，致后者裁员 40%",
+   "reason": null,
+   "source": {
+    "name": "Endpoints News"
+   },
+   "summary": "礼来放弃 Foghorn Therapeutics 的合成致死药物开发项目，致后者裁员 40%。Foghorn 作为一家小型生物科技公司，因 Lilly 退出该方向开发而大幅缩减人员。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-10-01T14:14:59.000Z",
+   "discoveredAt": "2026-10-01T15:05:34.434Z",
+   "originalTitle": "Lilly pulls back from Foghorn's synthetic lethality work as biotech sheds 40% of staff",
+   "url": "https://endpoints.news/lilly-pulls-back-from-foghorns-synthetic-lethality-work-as-biotech-sheds-40-of-staff/"
+  },
+  {
+   "id": "hzyxhpc3m51fqfafm8u8hbtzv",
+   "score": 36,
+   "title": "Medicare Advantage计划2027年将更多成本转嫁给参保老人",
+   "reason": null,
+   "source": {
+    "name": "STAT News"
+   },
+   "summary": "联邦数据显示，美国Medicare Advantage险企2027年将大幅提高参保人自付费用、削减牙科等福利并取消宽网络计划。UnitedHealth Group、Humana等公司在投资者对利润率不满后正缩减福利以追逐更高利润。年度参保期10月15日开启，参保人若不仔细比价将面临医生被排除在网络之外的冲击。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-10-01T21:14:01.000Z",
+   "discoveredAt": "2026-10-01T23:26:34.610Z",
+   "originalTitle": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
+   "url": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss"
+  },
+  {
+   "id": "pvvv0p6zgk9sct90r81viol6k",
+   "score": 35,
+   "title": "survodutide 每周一次治疗成人肥胖合并 2 型糖尿病",
+   "reason": null,
+   "source": {
+    "name": "NEJM"
+   },
+   "summary": "NEJM 发表 survodutide 每周一次给药治疗成人肥胖合并 2 型糖尿病的临床研究报告，原文为 Ahead of Print 预发表版本，正文仅提供出版信息，未披露具体终点结果与样本量等数据。\n```",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-10-01T07:30:00.000Z",
+   "discoveredAt": "2026-10-01T23:05:40.275Z",
+   "originalTitle": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607219?af=R&rss=currentIssue"
+  },
+  {
+   "id": "i1u0awnhyu61houd547l263qp",
+   "score": 82,
+   "title": "Retatrutide 三期 TRIUMPH-1 试验：肥胖人群 80 周体重降幅 25%，骨关节炎疼痛与睡眠呼吸暂停改善",
+   "reason": "retatrutide 三期在 80 周同时报告体重、膝骨关节炎疼痛和睡眠呼吸暂停三类终点，使三受体激动剂在肥胖共病人群中的获益可以在同一试验内直接比较。",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "礼来 Retatrutide 三期 TRIUMPH-1 试验纳入 2339 名无糖尿病肥胖成人，12 mg、9 mg 和 4 mg 组 80 周体重平均分别下降 25.0%、23.7% 和 17.6%，均显著优于安慰剂组的 3.9%（P<0.001）。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-30T19:00:22.000Z",
+   "discoveredAt": "2026-10-01T10:18:06.166Z",
+   "originalTitle": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
+   "url": "https://doi.org/10.1056/nejmoa2604169"
+  },
+  {
+   "id": "c8eeuv6vurnld5d0d086sq6wz",
+   "score": 68,
+   "title": "迪哲医药收到阿斯利康6亿美元首付款，刷新中国小分子单药出海纪录",
+   "reason": "原文给出的6亿美元首付款刷新中国小分子单药出海首付款纪录，可作为同类小分子出海交易的对照基准。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "迪哲医药公告显示，公司已收到阿斯利康6亿美元首付款，约合人民币40亿元，刷新中国小分子单药出海交易首付款纪录。迪哲医药创始人张小林与阿斯利康渊源近二十年。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-30T09:48:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:51.712Z",
+   "originalTitle": "张小林：40亿元到账，源头创新开始兑现",
+   "url": "https://bydrug.pharmcube.com/news/detail/58aaf6e4132b247be655e3578c9e4e21"
+  },
+  {
+   "id": "wgvaeikz23zakbpgqupx2gx89",
+   "score": 68,
+   "title": "阿斯利康20亿美元战略入股Summit Therapeutics，获约12%股权并锁定两项合作",
+   "reason": "20亿美元换约12%股权并同步锁定两项临床合作，这一规模与组合本身就是正式并购前的接触性布局。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "阿斯利康9月28日宣布以20亿美元认购Summit Therapeutics可转换优先股，转股完成后将持有后者约12%股权。双方同步签署一份有约束力的临床合作协议，将Sone-Ve与Ivonescimab联用用于GI肿瘤，并签下一份探索Ivonescimab与阿斯利康更广ADC矩阵联用的非约束性MOU。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-30T04:24:00.000Z",
+   "discoveredAt": "2026-10-01T10:20:11.544Z",
+   "originalTitle": "阿斯利康20亿美元入股Summit，一场并购前哨战已打响",
+   "url": "https://bydrug.pharmcube.com/news/detail/b427b7c78e926ab08a774d18b2121f03"
+  },
+  {
+   "id": "cjm2qgj6ojwa4d7ftszls0hgo",
+   "score": 66,
+   "title": "HBZ与Fra-2对NF-κB的转录重编程驱动Tax阴性成人T细胞白血病/淋巴瘤的炎症性化疗耐药",
+   "reason": "在Tax阴性ATL中识别出Fra-2–NF-κB–IL-1β这一可药物靶向的耐药轴，并提示anakinra等现有药物可能恢复化疗敏感性。",
+   "source": {
+    "name": "bioRxiv Cancer Biology"
+   },
+   "summary": "本研究在Tax阴性的成人T细胞白血病/淋巴瘤（ATL）中鉴定出Fra-2作为NF-κB p65的共激活因子，将p65的转录活性重定向至炎症基因。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T13:16:18.984Z",
+   "originalTitle": "Transcriptional rewiring of NF-κB by HBZ and Fra-2 drives inflammatory chemoresistance in Tax-negative adult T-cell leukemia/lymphoma",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755641v1?rss=1"
+  },
+  {
+   "id": "xpgd6we92lazvsyhrrqx6901m",
+   "score": 65,
+   "title": "在标定度量下深度学习遗传扰动预测模型可超越基线",
+   "reason": "该工作提出 DRF 标定框架与插值重复基线，说明先前基准因度量未标定而低估了深度学习模型在遗传扰动预测中的真实表现。",
+   "source": {
+    "name": "Nature Biotechnology"
+   },
+   "summary": "该工作提出动态范围分数（DRF）标定框架和插值重复基线，用于评估扰动预测度量对生物学信号灵敏度。在14个数据集、18个度量上测试9个深度学习模型（scGPT、GEARS、PRESAGE、scLambda、CellFlow等）和4种基础模型嵌入探针，结果显示标定度量下多数模型可超越无信息基线，PRESAGE在Wessels23组合扰动任务上于15/18个度量超过加性基线。",
+   "category": "tip",
+   "selected": true,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T23:05:40.272Z",
+   "originalTitle": "Deep learning perturbation models can outperform baselines on calibrated metrics",
+   "url": "https://www.nature.com/articles/s41587-026-03307-w"
+  },
+  {
+   "id": "t25l2whkzturhkr3m9jvuzyne",
+   "score": 64,
+   "title": "三阴性乳腺癌模型显示中性粒细胞干扰素程序驱动抗PD1耐药",
+   "reason": "原文将中性粒细胞干扰素程序的早期动态与抗PD1疗效直接挂钩，读者可据此评估该程序作为外周血生物标志物候选的可行性。",
+   "source": {
+    "name": "bioRxiv Cancer Biology"
+   },
+   "summary": "在三阴性乳腺癌临床前模型中，研究者通过纵向单细胞与空间转录组以及中性粒细胞特异性遗传扰动，鉴定出一种在肿瘤表型分叉前即出现的中性粒细胞ISG程序，并发现其持续激活与抗PD1耐药相关；早期减少IFN应答型中性粒细胞与治疗成功相对应，而在中性粒细胞中遗传破坏I型或II型干扰素信号可提升抗PD1疗效并促进持久抗肿瘤免疫记忆。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T13:16:18.970Z",
+   "originalTitle": "Early dynamics of a neutrophil interferon program drive immunotherapy resistance and limit durable anti-tumor immunity",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755684v1?rss=1"
+  },
+  {
+   "id": "eqv18z9yzj3c92lgn61eorjf2",
+   "score": 63,
+   "title": "银(I)介导的无保护肽酰胺-酯转化用于蛋白质化学合成与工程",
+   "reason": "原文给出银(I)介导的无保护肽酰胺-酯转化方法及机理验证，并以镜像组蛋白全合成展示适用性，对化学蛋白合成方法学有参考价值。",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "原文报道了一种银(I)介导的无保护肽酰胺-酯转化方法，借助易引入的N,S-苯亚甲基硫缩醛支架可在含水乙酸中将主链酰胺化学选择性转化为水杨醛酯，且无外消旋化。作者通过多种肽合成实例及H2A、H2B、H3、H4镜像组蛋白的高效全合成进行验证，并经详细机理研究阐明反应路径，为肽或蛋白水平的可编程酰胺活化建立通用有机化学平台。DOI: 10.1126/sciadv.aej5227",
+   "category": "tip",
+   "selected": true,
+   "publishedAt": "2026-09-30T18:55:08.000Z",
+   "discoveredAt": "2026-10-01T10:18:06.143Z",
+   "originalTitle": "Silver(I)-mediated amide-to-ester transformation on unprotected peptides for protein chemical synthesis and engineering.",
+   "url": "https://doi.org/10.1126/sciadv.aej5227"
+  },
+  {
+   "id": "o6axri9glrrpa4jkxsmz016mt",
+   "score": 62,
+   "title": "阿斯利康20亿美元认购Summit优先股 持有约12%股权布局K药挑战者",
+   "reason": "以20亿美元认购Summit优先股换取约12%股权，结构化条款让阿斯利康保留对K药挑战者的上行敞口并控制直接持股的下行风险。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "阿斯利康以20亿美元认购Summit优先股，折合普通股18.36美元/股，较Summit周一收盘价15.48美元溢价18.6%，交易完成后阿斯利康持有Summit约12%股权，交易预计本周完成。该笔投资被描述为一份结构化的看涨期权，标的资产对标K药。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-30T10:28:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:45.104Z",
+   "originalTitle": "20亿美元买一份看涨期权：阿斯利康对K药挑战者的\"进可攻退可守\"",
+   "url": "https://bydrug.pharmcube.com/news/detail/8735fc1c4007c1c2ddd920d1e60fe36d"
+  },
   {
    "id": "sdztp18d23kk28rp3kj5vnlpi",
    "score": 62,
@@ -18,6 +338,102 @@
    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01380-2/fulltext?rss=yes"
   },
   {
+   "id": "dxhfxc9iutyq30cz7ngc3p0ww",
+   "score": 61,
+   "title": "BMS的CELMoD药物Iberdomide国内获批，联合方案治疗复发多发性骨髓瘤",
+   "reason": "该药物作为同机制率先获批的CELMoD分子，其在中国上市为后续蛋白降解药物的机制差异化与适应症布局提供参考点。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "2026年9月30日，国家药监局通过优先审评批准BMS的盐酸艾泊度胺胶囊（Iberdomide，商品名赞赋）上市，联合达雷妥尤单抗和地塞米松，用于既往接受过至少一线治疗（含一种蛋白酶体抑制剂和一种免疫调节剂）的多发性骨髓瘤成人患者。原文称其为全球首款获批的Cereblon E3泛素连接酶调节剂（CELMoD）药物。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-30T12:00:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:31.902Z",
+   "originalTitle": "全球首款，BMS抗肿瘤新药国内获批",
+   "url": "https://bydrug.pharmcube.com/news/detail/5a83453e769298ddb00d4a90386722c1"
+  },
+  {
+   "id": "fir3x7vx82qjm7xe68psq9up2",
+   "score": 61,
+   "title": "司美格鲁肽对2型糖尿病肾脏病影响的随机安慰剂对照试验",
+   "reason": "该研究在同一项RCT中并行使用组织学、多参数MRI和转录组学来拆解司美格鲁肽的肾脏保护机制，方法学组合值得同类研究参考。",
+   "source": {
+    "name": "Nature Medicine"
+   },
+   "summary": "一项在2型糖尿病患者中开展的随机安慰剂对照试验，结合组织学、多参数MRI和转录组学探查司美格鲁肽的肾脏保护机制。文章发表于Nature Medicine，doi:10.1038/s41591-026-04674-2，第一作者Katherine R. Tuttle。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T23:05:33.874Z",
+   "originalTitle": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
+   "url": "https://www.nature.com/articles/s41591-026-04674-2"
+  },
+  {
+   "id": "o2l2185o642j13x0b1jyowtjp",
+   "score": 61,
+   "title": "重新激活胚胎 ζ-globin 基因可缓解重型 α-地中海贫血",
+   "reason": "顺式调控元件的鉴定为缺乏成熟治疗手段的重型 α-地中海贫血提供了一条重新激活内源基因的编辑路径。",
+   "source": {
+    "name": "Nature Genetics"
+   },
+   "summary": "Liu 等鉴定出在定型红系细胞中沉默胚胎 ζ-globin 基因的顺式调控元件，并据此设计的基因编辑策略可在小鼠和人类 α-地中海贫血疾病模型中将 ζ-globin 表达重新激活至治疗相关水平。DOI：10.1038/s41588-026-02770-0。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T23:05:33.867Z",
+   "originalTitle": "Reactivation of the embryonic ζ-globin gene ameliorates severe forms of α-thalassemia",
+   "url": "https://www.nature.com/articles/s41588-026-02770-0"
+  },
+  {
+   "id": "t2en9q4abk8g6rfc6da5bjsvu",
+   "score": 61,
+   "title": "CSCO 2026肝癌指南将钇-90微球SIRT升至I级推荐，SIRT核医学全程管理中国专家共识同期发布",
+   "reason": "2026版CSCO肝癌指南将钇-90微球SIRT升级为I级推荐，同期发布核医学全程管理中国专家共识，可供读者了解该方案在指南层面升级的依据与配套管理流程。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "2026版CSCO原发性肝癌诊疗指南将钇-90微球SIRT治疗升至I级[1A类]推荐，同期在CSCO年会核医学分会场正式发布解读《钇-90选择性内放射治疗肝脏恶性肿瘤核医学全程管理中国专家共识》。该共识由西安交通大学第一附属医院杨爱民教授与中国科学技术大学附属第一医院荚卫东教授联合牵头制定；新版指南同时实现结构性重构，局部治疗进入联合时代。",
+   "category": "opinion",
+   "selected": true,
+   "publishedAt": "2026-09-30T12:03:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:31.897Z",
+   "originalTitle": "钇统规范｜CSCO 2026：钇-90微球SIRT升至I级[1A类]推荐，SIRT核医学全程管理共识正式发布解读，荚卫东教授解析肝癌转化治疗新选择",
+   "url": "https://bydrug.pharmcube.com/news/detail/c9f5e259d1135dc3ee32f9bf5765f6b4"
+  },
+  {
+   "id": "ufgjq116wuffkgaap4171a8hq",
+   "score": 61,
+   "title": "武田泽索昔替尼头对头3期试验优于氘可来昔替尼，斑块状银屑病PASI 100完全清除率超2.5倍",
+   "reason": "作为两款口服TYK2抑制剂之间的头对头比较，第16周PASI 100与PASI 90的应答差距为读者评估两者相对疗效提供了直接参照。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "武田公布3期LATITUDE Atlas头对头试验数据：泽索昔替尼（TAK-279）在中重度斑块状银屑病中第16周PASI 100完全清除率为36.5%（n=301），显著高于氘可来昔替尼13.9%（n=303，p<0.001），同周PASI 90为62.5%对34.0%，sPGA 0为43.2%对18.5%。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-30T09:24:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:58.310Z",
+   "originalTitle": "武田制药泽索昔替尼头对头3期胜出氘可来昔替尼：银屑病皮损完全清除率超2.5倍！",
+   "url": "https://bydrug.pharmcube.com/news/detail/82c0de7cca185885bcb0fb1d8f8959e8"
+  },
+  {
+   "id": "myk0m0z0ug2awfrll392fkg7j",
+   "score": 60,
+   "title": "BMS 艾泊度胺胶囊获 NMPA 附条件批准，联合达雷妥尤单抗和地塞米松治疗多发性骨髓瘤",
+   "reason": "原文写明联合方案成分和既往治疗线要求，并提示走的是附条件批准路径，读者可据此判断该药在多发性骨髓瘤治疗路径中的定位。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "国家药监局通过优先审评审批程序附条件批准 BMS 申报的 1 类创新药盐酸艾泊度胺胶囊（商品名称：赞赋）上市，该药联合达雷妥尤单抗和地塞米松用于既往接受过至少一线治疗（包括一种蛋白酶体抑制剂和一种免疫调节剂）的多发性骨髓瘤成人患者。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-30T09:48:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:51.704Z",
+   "originalTitle": "刚刚，一款重磅新药在中国获批上市！",
+   "url": "https://bydrug.pharmcube.com/news/detail/5cc8f8acff60a58e7bf3edf19285d939"
+  },
+  {
    "id": "axe5dvdsiexefti0gsm3e9df6",
    "score": 57,
    "title": "礼来 Zepbound 与 eloralintide 联合治疗在中期试验中实现显著减重",
@@ -32,6 +448,22 @@
    "discoveredAt": "2026-09-30T15:10:11.965Z",
    "originalTitle": "STAT+: Eli Lilly’s Zepbound combined with amylin drug led to significant weight loss in mid-stage trial",
    "url": "https://www.statnews.com/2026/09/30/eli-lilly-zepbound-amylin-combination-drug-study/?utm_campaign=rss"
+  },
+  {
+   "id": "bu9zdxshfx04t9hxpzys75p63",
+   "score": 56,
+   "title": "黑色素瘤新辅助治疗五年生存更新：国际新辅助黑色素瘤联盟汇总分析",
+   "reason": "汇总1,038例黑色素瘤新辅助治疗5年生存数据，ICI单药或联合优于BRAF/MEKi，为不同机制方案选择提供长期疗效对照。",
+   "source": {
+    "name": "Nature Medicine"
+   },
+   "summary": "国际新辅助黑色素瘤联盟（INMC）对1,038例接受新辅助治疗的黑色素瘤患者进行汇总分析，比较免疫检查点抑制剂（ICI）、BRAF/MEKi及两者联合方案的3年与5年生存。结果显示，ICI单药或联合方案优于BRAF/MEKi；获得主要病理缓解的患者长期生存更佳。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T23:05:33.867Z",
+   "originalTitle": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
+   "url": "https://www.nature.com/articles/s41591-026-04677-z"
   },
   {
    "id": "f64cgoxino5gsc884mxq45n1c",
@@ -82,6 +514,22 @@
    "url": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/"
   },
   {
+   "id": "ll68powxqt568g2bg85eptsgl",
+   "score": 45,
+   "title": "替尔泊肽+Eloralintide 1b期联合用药31周减重29%刷新纪录（PPT）",
+   "reason": null,
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "替尔泊肽（GIP/GLP-1受体激动剂）联合Eloralintide（选择性胰淀素受体激动剂）在两项1b期多次递增剂量概念验证研究中治疗无2型糖尿病的肥胖或超重成人，31周减重达29%，刷新纪录。两项研究均采用研究者与受试者设盲、安慰剂对照设计，入组BMI分别为27−45（研究A）和27−40（研究B）kg/m²，比较不同剂量联合与单药方案的疗效。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-30T10:29:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:45.101Z",
+   "originalTitle": "31周减重29%，替尔泊肽+Eloralintide刷新记录，PPT",
+   "url": "https://bydrug.pharmcube.com/news/detail/78e0569393b3bac41233e6476befad1e"
+  },
+  {
    "id": "ta63516otxfl1ydzks07ofknl",
    "score": 45,
    "title": "Atara 与 Pierre Fabre 就细胞疗法 Ebvallo 向 FDA 重新提交申请",
@@ -98,6 +546,22 @@
    "url": "https://www.biospace.com/fda/atara-pierre-fabre-resubmit-twice-rebuffed-cell-therapy-after-fda-flips-again"
   },
   {
+   "id": "asx3yczdnf74vswnh84g7jvp8",
+   "score": 43,
+   "title": "<think>",
+   "reason": "热度：X 浏览 4129",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "The user wants me to create a Chinese title and summary for a biomedical research article about lean MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease). Let me analyze the content: Original title: \"Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.\" This is already a clear descriptive title. I need to translate it to Chinese while keeping it self-contained. Key findings from the article: 1. Multinational retrospective study from the Global MASLD project across 41 countries 2. 18,326 adults with biopsy-confirmed MASLD 3. 6.7% were lean by BMI; 6.0% were lean by waist circumference 4. Lean MASLD most prevalent in Asia (11.3% by BMI) 5. Lean MASLD had milder histologic disease (lower advanced fibrosis prevalence, lower NAFLD activity scores) 6. Lean status was NOT independently associated with all-cause mortality or clinical events 7. Advanced fibrosis (F3-F4) WAS associated with worse outcomes (aHR 2.10 for mortality, 3.41 for clinical events) 8. FIB-4 had lower accuracy in lean vs overweight/obese (AUC 0.76 vs 0.79) 9. LSM had higher accuracy in lean vs overweight/obese (AUC 0.87 vs 0.83) Now let me write the title and summary: Title: The original title is \"Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.\" - This is a descriptive research title. Translation: \"瘦型代谢功能障碍相关脂肪性肝病（Lean MASLD）的组织学特征与临床结局\" Should I keep MASLD in English? Yes, per the rules - 2-6 letter all-caps abbreviations should remain in English. Title: \"瘦型代谢功能障碍相关脂肪性肝病（Lean MASLD）的组织学特征与临床结局\" Summary (80-160 characters, max 3 sentences): - 18,326 patients from 41 countries - 6.7% lean by BMI, most prevalent in Asia (11.3%) - Lean MASLD had milder histologic disease but similar clinical outcomes - Advanced fibrosis, not body composition, predicted prognosis - LSM outperformed FIB-4 in lean individuals Let me draft: \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊 MASLD 患者，6.7% 为瘦型（BMI 定义），亚洲占比最高（11.3%）。瘦型 MASLD 肝纤维化与疾病活动度较轻，但全因死亡与临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）才是预后的独立预测因素（死亡 aHR 2.10，临床事件 aHR 3.41），且 LSM 对瘦型患者预测准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Let me count: that's about 180 characters, too long. Let me trim. \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊患者，6.7% 为瘦型（BMI 定义），亚洲占比最高（11.3%）。瘦型 MASLD 肝纤维化与活动度较轻，但全因死亡及临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）才是预后的独立预测因素（全因死亡 aHR 2.10，临床事件 aHR 3.41），且 LSM 对瘦型患者的预测准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Count: ~170 characters. Still a bit long. Let me trim more. Actually, let me recount more carefully: \"全球 MASLD 项目纳入 41 国 18 326 例活检确诊患者，6.7% 为瘦型（BMI 定义），亚洲占比最高（11.3%）。瘦型 MASLD 肝纤维化与活动度较轻，但全因死亡及临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）为预后独立预测因素（全因死亡 aHR 2.10，临床事件 aHR 3.41），且 LSM 对瘦型患者的预测准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Let me count Chinese characters and numbers: 全球MASLD项目纳入41国18326例活检确诊患者，6.7%为瘦型（BMI定义），亚洲占比最高（11.3%）。瘦型MASLD肝纤维化与活动度较轻，但全因死亡及临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）为预后独立预测因素（全因死亡aHR 2.10，临床事件aHR 3.41），且LSM对瘦型患者的预测准确性优于FIB-4（AUC 0.87 vs 0.76）。 Counting Chinese characters (not counting English/numbers/punctuation): 全球MASLD项目纳入国例活检确诊患者为瘦型BMI定义亚洲占比最高瘦型MASLD肝纤维化与活动度较轻但全因死亡及临床事件风险与超重肥胖型相当晚期纤维化为预后独立预测因素全因死亡临床事件且对瘦型患者的预测准确性优于 = 让我数一下 全球(2) MASLD(5)项目(2)纳入(2) 41(2) 国(1) 18326(5) 例(1)活检(2)确诊(2)患者(2)，6.7%(4) 为(1)瘦型(2)（BMI(3)定义(2)），亚洲(2)占比(2)最高(2)（11.3%(6)）。瘦型MASLD(8)肝(1)纤维化(3)与(1)活动度(3)较轻(2)，但(1)全因(2)死亡(2)及(1)临床(2)事件(2)风险(2)与(1)超重(2)/肥胖(2)型(1)相当(2)；晚期(2)纤维化(3)（F3-F4(5)）为(1)预后(2)独立(2)预测(2)因素(2)（全因(2)死亡(2) aHR(3) 2.10(4)，临床(2)事件(2) aHR(3) 3.41(4)），且(1) LSM(3) 对(1)瘦型(2)患者(2)的(1)预测(2)准确性(3)优于(2) FIB-4(5)（AUC(3) 0.87(4) vs(2) 0.76(4)）。 That's a lot of characters total including English/numbers. Let me estimate: roughly 180-190 total characters. Need to trim. Let me focus on the most important points and make it tighter: \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊患者，6.7% 为瘦型（BMI 定义），亚洲占比最高（11.3%）。瘦型 MASLD 肝纤维化与活动度较轻，全因死亡与临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）才是预后独立预测因素（全因死亡 aHR 2.10，临床事件 aHR 3.41），且 LSM 对瘦型患者预测准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" This should be around 160 characters. Let me be more precise. Counting all characters including English numbers and punctuation: \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊患者，6.7% 为瘦型（BMI 定义），亚洲占比最高（11.3%）。瘦型 MASLD 肝纤维化与活动度较轻，全因死亡与临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）才是预后独立预测因素（全因死亡 aHR 2.10，临床事件 aHR 3.41），且 LSM 对瘦型患者预测准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" This is approximately 160 characters including all content. That fits. Actually, the rule says \"80-160字\" - this is about Chinese characters. Let me see. In Chinese biomedical writing, numbers and English words might or might not be counted. Let me assume the rule means total length including all visible characters should be 80-160. Let me count again more carefully character by character: 全(1)球(2) (3)M(4)A(5)S(6)L(7)D(8) (9)项(10)目(11)纳(12)入(13) (14)4(15)1(16) (17)国(18)1(19)8(20),(21)3(22)2(23)6(24) (25)例(26)活(27)检(28)确(29)诊(30)患(31)者(32)，(33)6(34).(35)7(36)%(37) (38)为(39)瘦(40)型(41)（(42)B(43)M(44)I(45) (46)定(47)义(48)）(49)，(50)亚(51)洲(52)占(53)比(54)最(55)高(56)（(57)1(58)1(59).(60)3(61)%(62)）(63)。(64)瘦(65)型(66) (67)M(68)A(69)S(70)L(71)D(72) (73)肝(74)纤(75)维(76)化(77)与(78)活(79)动(80)度(81)较(82)轻(83)，(84)全(85)因(86)死(87)亡(88)与(89)临(90)床(91)事(92)件(93)风(94)险(95)与(96)超(97)重(98)/(99)肥(100)胖(101)型(102)相(103)当(104)；(105)晚(106)期(107)纤(108)维(109)化(110)（(111)F(112)3(113)-(114)F(115)4(116)）(117)才(118)是(119)预(120)后(121)独(122)立(123)预(124)测(125)因(126)素(127)（(128)全(129)因(130)死(131)亡(132) (133)a(134)H(135)R(136) (137)2(138).(139)1(140)0(141)，(142)临(143)床(144)事(145)件(146) (147)a(148)H(149)R(150) (151)3(152).(153)4(154)1(155)）(156)，(157)且(158) (159)L(160)S(161)M(162) (163)对(164)瘦(165)型(166)患(167)者(168)预(169)测(170)准(171)确(172)性(173)优(174)于(175) (176)F(177)I(178)B(179)-(180)4(181)（(182)A(183)U(184)C(185) (186)0(187).(188)8(189)7(190) (191)v(192)s(193) (194)0(195).(196)7(197)6(198)）(199)。(200) That's about 200 characters. Too long. Let me trim. Let me make it more concise: \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊患者，其中 6.7% 为瘦型，亚洲占比最高（11.3%）。瘦型 MASLD 肝纤维化与疾病活动度较轻，全因死亡及临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）才是预后独立预测因素（aHR 分别为 2.10 和 3.41），且 LSM 对瘦型患者准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Let me count this... approximately 165 characters. Still slightly over. Try again: \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊 MASLD 患者，6.7% 为瘦型（BMI 定义），亚洲占比最高（11.3%）。瘦型 MASLD 组织学表现较轻，全因死亡及临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）为预后独立预测因素，且 LSM 对瘦型患者准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Hmm, this drops the HR values. Let me see if I can fit them. \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊患者，6.7% 为瘦型（BMI 定义），亚洲占比最高（11.3%）。瘦型 MASLD 纤维化与活动度较轻，全因死亡与临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）是预后独立预测因素（aHR 2.10 与 3.41），且 LSM 对瘦型患者准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Let me count: about 170 characters. Need to cut more. \"41 国 18,326 例活检确诊 MASLD 中 6.7% 为瘦型，亚洲占比最高（11.3%）。瘦型 MASLD 纤维化与活动度较轻，全因死亡与临床事件风险与超重/肥胖型相当；晚期纤维化（F3-F4）才是预后独立预测因素（aHR 2.10 和 3.41），且 LSM 对瘦型患者准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Count: ~150. This works. Actually let me re-read the requirements: - 80-160 字 - 最多 3 句 - 直接说内容本身 The first sentence should be the main finding/answer (30-70 characters). Then 1-2 more supporting facts. My first sentence: \"41 国 18,326 例活检确诊 MASLD 中 6.7% 为瘦型，亚洲占比最高（11.3%）。\" - This is descriptive but maybe not the key answer. Actually, the key finding per the paper's conclusion is: \"Lean MASLD represents a distinct phenotype with milder histologic disease but similar clinical outcomes compared with overweight/obese MASLD. Fibrosis severity, rather than body composition, was associated with prognosis.\" So the first answer sentence should focus on this. Let me restructure: \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊患者，发现瘦型 MASLD 组织学表现较轻但临床结局与超重/肥胖型相当；6.7% 为瘦型，亚洲占比最高（11.3%）。晚期纤维化（F3-F4）才是预后独立预测因素（全因死亡 aHR 2.10，临床事件 aHR 3.41），且 LSM 对瘦型患者准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Count: about 165. Let me see if I can compress more. Try: \"全球 MASLD 项目纳入 41 国 18,326 例活检确诊患者，发现瘦型 MASLD 组织学较轻但临床结局与超重/肥胖型相似；6.7% 为瘦型，亚洲占比最高（11.3%）。晚期纤维化（F3-F4）才是预后独立预测因素（死亡 aHR 2.10、临床事件 3.41），且 LSM 对瘦型准确性优于 FIB-4（AUC 0.87 vs 0.76）。\" Count: ~155. Better. Actually let me just count carefully: 全(1)球(2) (3)M(4)A(5)S(6)L(7)D(8) (9)项(10)目(11)纳(12)入(13) (14)4(15)1(16) (17)国(18)1(19)8(20),(21)3(22)2(23)6(24) (25)例(26)活(27)检(28)确(29)诊(30)患(31)者(32)，(33)发(34)现(35)瘦(36)型(37) (38)M(39)A(40)S(41)L(42)D(43) (44)组(45)织(46)学(47)较(48)轻(49)但(50)临(51)床(52)结(53)局(54)与(55)超(56)重(57)/(58)肥(59)胖(60)型(61)相(62)似(63)；(64)6(65).(66)7(67)%(68) (69)为(70)瘦(71)型(72)，(73)亚(74)洲(75)占(76)比(77)最(78)高(79)（(80)1(81)1(82).(83)3(84)%(85)）(86)。(87)晚(88)期(89)纤(90)维(91)化(92)（(93)F(94)3(95)-(96)F(97)4(98)）(99)才(100)是(101)预(102)后(103)独(104)立(105)预(106)测(107)因(108)素(109)（(110)死(111)亡(112) (113)a(114)H(115)R(116) (117)2(118).(119)1(120)0(121)、(122)临(123)床(124)事(125)件(126) (127)3(128).(129)4(130)1(131)）(132)，(133)且(134) (135)L(136)S(137)M(138) (139)对(140)瘦(141)型(142)准(143)确(144)性(145)优(146)于(147) (148)F(149)I(150)B(151)-( </think>",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-09-30T15:15:01.000Z",
+   "discoveredAt": "2026-10-01T10:18:06.183Z",
+   "originalTitle": "Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+   "url": "https://doi.org/10.1001/jama.2026.18491"
+  },
+  {
    "id": "chu79234uiyayyux4xzegqdvf",
    "score": 42,
    "title": "Lilly 通过间接分析为 GLP-1 产品构建商业优势以超越 Novo",
@@ -112,6 +576,54 @@
    "discoveredAt": "2026-09-30T14:09:42.441Z",
    "originalTitle": "Lilly builds commercial case for GLP-1 products over Novo with indirect analyses",
    "url": "https://www.biospace.com/drug-development/lilly-builds-commercial-case-for-glp-1-products-over-novo-with-indirect-analyses"
+  },
+  {
+   "id": "kd5fl48i3jbbzl11pa7xqzk9i",
+   "score": 39,
+   "title": "砍掉一条管线，启动三项III期！罗氏减重管线大洗牌",
+   "reason": "热度：2 个信源报道同一事件",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "罗氏终止Emugrobart肥胖适应症开发并归还权利给中外制药，同日启动petrelintide三项全球III期临床试验，合计计划入组约7000人。petrelintide为Zealand原研的长效胰淀素类似物，2025年3月罗氏以最高53亿美元总交易额引进，最新ZUPREME-1 II期数据为其进入III期提供了支撑证据。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-30T11:03:00.000Z",
+   "discoveredAt": "2026-10-01T10:19:38.519Z",
+   "originalTitle": null,
+   "url": "https://bydrug.pharmcube.com/news/detail/f261be907a93240d064b1a3617f4db83"
+  },
+  {
+   "id": "ve1dl56qijwq9a09j42f8n5ws",
+   "score": 39,
+   "title": "Giredestrant 联合 Everolimus 治疗晚期乳腺癌",
+   "reason": "热度：X 浏览 8000",
+   "source": {
+    "name": "NEJM"
+   },
+   "summary": "NEJM 2026 年 10 月 1 日发表 Giredestrant 联合 Everolimus 用于晚期乳腺癌的临床研究。由于正文仅提供出处信息，未披露具体试验设计、样本量、终点或疗效数据，本文不补充推断。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-30T09:00:09.000Z",
+   "discoveredAt": "2026-10-01T23:05:40.202Z",
+   "originalTitle": "Giredestrant plus Everolimus in Advanced Breast Cancer",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602457?af=R&rss=currentIssue"
+  },
+  {
+   "id": "o722g5kt685q9bks7c14oz2fy",
+   "score": 37,
+   "title": "胰腺导管腺癌在质子与碳离子原始及展宽布拉格峰辐照下的克隆存活与相对生物有效性",
+   "reason": null,
+   "source": {
+    "name": "bioRxiv Cancer Biology"
+   },
+   "summary": "研究在180.1 MeV质子和352.4 MeV/u碳离子辐照PANC-1和BxPC-3胰腺导管腺癌细胞，沿布拉格曲线四个位点评估克隆存活与RBE。RBE随剂量平均传能线密度（LETD）升高而增加：质子RBE10远端超1.1，碳离子RBE10在PANC-1由2.3升至5.2、BxPC-3由1.3升至3.7。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T13:16:18.978Z",
+   "originalTitle": "Clonogenic survival and relative biological effectiveness of pancreatic ductal adenocarcinoma under pristine and spread-out Bragg peak irradiation with protons and carbon ions.",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.30.754978v1?rss=1"
   },
   {
    "id": "rtydo23hpa3x7754mqatukb9w",
@@ -144,6 +656,38 @@
    "discoveredAt": "2026-09-30T16:58:13.890Z",
    "originalTitle": "Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
    "url": "https://www.nature.com/articles/s41586-026-11087-1"
+  },
+  {
+   "id": "k0txztwzjenu0s3grhserrsjz",
+   "score": 73,
+   "title": "礼来retatrutide TRIUMPH-2三期试验在肥胖合并2型糖尿病患者中达到80周体重主要终点",
+   "reason": "在2型糖尿病这一减重通常更困难的群体中给出了剂量梯度减重幅度与胃肠道不良反应发生率，可与同类GLP-1类药物横向比较。",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "礼来retatrutide在肥胖合并2型糖尿病患者的三期TRIUMPH-2试验中达到80周体重主要终点：4mg、9mg、12mg组体重较基线平均变化分别为-11.9%、-16.8%、-18.8%，安慰剂组为-5.1%，三组估计治疗差异均p<0.0001。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-29T22:04:00.000Z",
+   "discoveredAt": "2026-10-01T10:17:59.579Z",
+   "originalTitle": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+   "url": "https://doi.org/10.1016/s0140-6736(26)01861-1"
+  },
+  {
+   "id": "q2367yxcp6j0rjh3dfca58n0v",
+   "score": 71,
+   "title": "肠道菌群经肠道树突状细胞 AHR 通路加重缺血性卒中",
+   "reason": "原文同时给出基因敲除与药理抑制两套证据，把产吲哚大肠杆菌经 AHR 影响肠道 DC 这条通路定位为卒中预后的可成药节点。",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "Cell 发表的研究发现，产吲哚大肠杆菌富集与小鼠和缺血性卒中患者较差的预后相关，机制上依赖肠道树突状细胞中的 AHR。树突状细胞特异性敲除 AHR 可改善小鼠卒中结局并保留肠道 cDC1；药理抑制 AHR 能促进 DC 向脑膜迁移、增加调节性 T 细胞并减轻神经炎症，而去除调节性 T 细胞会消除该神经保护作用。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-09-29T23:08:10.000Z",
+   "discoveredAt": "2026-10-01T10:17:59.560Z",
+   "originalTitle": "Gut microbiota primes stroke severity via the AHR in intestinal dendritic cells.",
+   "url": "https://doi.org/10.1016/j.cell.2026.09.013"
   },
   {
    "id": "k60xgrechlshefk9wabkrxdnq",
@@ -226,6 +770,22 @@
    "url": "https://www.nature.com/articles/s41586-026-11098-y"
   },
   {
+   "id": "t4b94pxvhuwm8j6fkjt81q3hz",
+   "score": 66,
+   "title": "诺和诺德 3 亿美元首付款从恒瑞引进每周一次口服 GLP1R/GIPR 双激动剂",
+   "reason": "诺和诺德以 3 亿美元首付款从恒瑞引进每周一次口服 GLP1R/GIPR 双激动剂的海外权益，可作为对照评估早研阶段肥胖资产估值上限的参考。",
+   "source": {
+    "name": "文献与产业新闻（bio-brief · Vault）"
+   },
+   "summary": "诺和诺德以 3 亿美元首付款从恒瑞医药引进一款每周一次口服 GLP1R/GIPR 双激动剂的中国以外权益。该资产仍处于临床前阶段，被原文列为同类早研交易中金额较大的案例之一；交易延续了诺和诺德在 2026 年通过业务拓展扩充肥胖管线的节奏，也是恒瑞医药近期与跨国大药企达成的又一桩合作。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-29T22:22:40.000Z",
+   "discoveredAt": "2026-10-01T10:18:32.661Z",
+   "originalTitle": "Novo gets shot at weekly obesity pill as Hengrui gets another MNC deal",
+   "url": "https://biocentury.com/article/660952/novo-gets-shot-at-weekly-obesity-pill-as-hengrui-gets-another-mnc-deal"
+  },
+  {
    "id": "yfj2pfht0mb4p2gib7gtgto3z",
    "score": 66,
    "title": "FDA 向 Fresenius Kabi AG 发出警告信，指出其无菌注射剂生产存在严重 CGMP 违规",
@@ -258,6 +818,38 @@
    "url": "https://www.nature.com/articles/s41586-026-11092-4"
   },
   {
+   "id": "imx6gabedvjth036jf1wi3yib",
+   "score": 64,
+   "title": "迪哲医药舒沃替尼全球授权首付款6亿美元到账，交易总额最高15亿美元",
+   "reason": "迪哲舒沃替尼全球授权首付款6亿美元到账，参考总交易额15亿美元可观察中国创新药海外授权的财务兑现节点。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "迪哲医药已收到阿斯利康支付的6亿美元首付款，按9月29日人民币汇率中间价约合40亿元人民币。该款项来自今年7月双方就舒沃替尼达成的全球独家开发与商业化授权合作，交易总额最高达15亿美元。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-30T03:24:00.000Z",
+   "discoveredAt": "2026-10-01T10:20:18.089Z",
+   "originalTitle": "6亿美元首付款到账！迪哲医药舒沃替尼全球授权落地，交易最高达15亿美元",
+   "url": "https://bydrug.pharmcube.com/news/detail/b0e598ded673fdb163bbe39c339aec6c"
+  },
+  {
+   "id": "rysdqwdgsqge704fvh3ope0vo",
+   "score": 64,
+   "title": "胰腺癌恶病质促进微环境的空间演化",
+   "reason": "原文用单细胞与 Xenium 空间转录组把胰腺癌恶病质生态位拆为 SEMA4A+/AQP9+/LOXL2+ 三类细胞并画出互作回路，对恶病质分型与靶点筛选有参照价值。",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "研究用单细胞与 Xenium 空间转录组在胰腺癌样本中定义出由 SEMA4A+ 肿瘤细胞、AQP9+ 巨噬细胞和 LOXL2+ 癌相关成纤维细胞组成的恶病质相关微环境生态位。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-09-29T19:13:48.000Z",
+   "discoveredAt": "2026-10-01T10:17:59.563Z",
+   "originalTitle": "Spatial evolution of a cachexia-promoting microenvironment in pancreatic cancer.",
+   "url": "https://doi.org/10.1016/j.cell.2026.09.012"
+  },
+  {
    "id": "gue7fjzr1s0kip662mkxxzquo",
    "score": 63,
    "title": "人类遗传学研究揭示BACH2-NRF2轴在胎儿血红蛋白激活中的作用",
@@ -272,6 +864,22 @@
    "discoveredAt": "2026-09-30T16:58:13.903Z",
    "originalTitle": "Human genetics implicates a BACH2–NRF2 axis in fetal haemoglobin activation",
    "url": "https://www.nature.com/articles/s41586-026-11113-2"
+  },
+  {
+   "id": "zhk3ogfamwvsd41n5wx5gvuqv",
+   "score": 63,
+   "title": "Dorsal 转录因子团簇在活体果蝇胚胎中增强基因表达但不改变转录爆发动力学",
+   "reason": "原文用活体胚胎成像直接检验转录因子团簇与转录爆发的关系，排除了团簇启动或维持爆发的模型。",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "在活体果蝇胚胎中，Dorsal 转录因子团簇结合部分内源靶基因并放大转录，但既不启动也不维持转录爆发，仅在爆发中增强聚合酶装载。研究使用前沿显微技术直接测量并操控活体转录，结合位点丰度决定团簇-基因结合，特异性破坏该结合的增强子突变导致致死发育缺陷。该结果挑战了关于转录因子团簇、hub 或凝聚体如何调控转录的主流模型。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-09-29T17:05:29.000Z",
+   "discoveredAt": "2026-10-01T10:17:59.568Z",
+   "originalTitle": "Transcription factor clusters enhance gene expression in vivo without modulating bursting dynamics.",
+   "url": "https://doi.org/10.1016/j.molcel.2026.09.011"
   },
   {
    "id": "bo9uexzdjqhkz9wqq3hz0e5x5",
@@ -293,7 +901,7 @@
    "id": "ktxnr6ur6xn376y99n2pg70i7",
    "score": 62,
    "title": "恒瑞医药将口服GLP-1/GIP双激动剂HRS-1596大中华区外权益授权诺和诺德，潜在总额26亿美元",
-   "reason": "热度：5 个信源报道同一事件",
+   "reason": "热度：6 个信源报道同一事件",
    "source": {
     "name": "中文产业新闻（药渡/pharmcube · Vault）"
    },
@@ -320,6 +928,22 @@
    "discoveredAt": "2026-10-01T00:48:43.494Z",
    "originalTitle": "【科技前瞻】Cell：自体骨髓间充质干细胞外岩藻糖基化编辑用于骨质疏松治疗",
    "url": "https://bydrug.pharmcube.com/news/detail/5b1d7114a5d2f4dc9a2d394098cb0980"
+  },
+  {
+   "id": "niao5e4q3xvjzj37l58bo3oiz",
+   "score": 61,
+   "title": "miv-cel 启动向 FDA 滚动 BLA 申报，冲刺自身免疫适应症 CAR-T",
+   "reason": "CAR-T 向自身免疫适应症扩展的监管节点临近，miv-cel 的 BLA 申报进展可为同类产品的监管路径提供对照参考。",
+   "source": {
+    "name": "中文产业新闻（药渡/pharmcube · Vault）"
+   },
+   "summary": "miv-cel 已启动向 FDA 的滚动 BLA 申报并计划今年第四季度完成，若顺利获批有望成为用于自身免疫疾病的 CAR-T。该疗法由 Kyverna 开发，标志着 CAR-T 向自身免疫适应症拓展的监管节点。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-30T02:24:00.000Z",
+   "discoveredAt": "2026-10-01T10:20:18.170Z",
+   "originalTitle": "CAR-T 要第一次走出肿瘤科了？首个自身免疫 CAR-T 正在冲刺 FDA",
+   "url": "https://bydrug.pharmcube.com/news/detail/b165d5e6becfb61845268f6020f5da75"
   },
   {
    "id": "xvex2umidrotm4p8x335eyjch",
@@ -352,6 +976,22 @@
    "discoveredAt": "2026-09-30T16:58:13.911Z",
    "originalTitle": "GPCR antagonism via rewiring of receptor trafficking and degradation",
    "url": "https://www.nature.com/articles/s41586-026-11088-0"
+  },
+  {
+   "id": "djlgkh8xl1uthvb7q3tq8ixsf",
+   "score": 60,
+   "title": "RO7589831 一期试验报告 WRN 共价抑制剂在 MSI 晚期实体瘤的可控安全性与初步疗效",
+   "reason": "作为 WRN 共价抑制剂的一期临床读出，给出了 MSI 晚期实体瘤的安全性、RP2D 和初步缓解率，可作为后续同类试验设计的对照基线。",
+   "source": {
+    "name": "顶刊论文（社媒热度 · Vault）"
+   },
+   "summary": "RO7589831（VVD-133214）是一种共价 WRN 抑制剂，在 88 例 MSI/dMMR 晚期实体瘤一期试验中评估安全性与初步疗效。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-29T11:11:58.000Z",
+   "discoveredAt": "2026-10-01T10:17:59.490Z",
+   "originalTitle": "Werner helicase inhibitor for advanced microsatellite instability solid tumors: a phase 1 trial.",
+   "url": "https://doi.org/10.1038/s41591-026-04657-3"
   },
   {
    "id": "h04brbxv216xt9yai0kxseyq3",
@@ -466,6 +1106,38 @@
    "url": "https://www.nature.com/articles/s41586-026-10965-y"
   },
   {
+   "id": "q2cc87ugs6pq7qxhu2u2wcyy0",
+   "score": 59,
+   "title": "I-DXd BLA 撤回使十月 PDUFA 日程仅余五项 FDA 决定",
+   "reason": "原文梳理了 I-DXd 撤回对十月 PDUFA 日程的具体影响，列出剩余五项决定的背景。",
+   "source": {
+    "name": "文献与产业新闻（bio-brief · Vault）"
+   },
+   "summary": "默沙东与第一三共在 PDUFA 日期前两周撤回 ifinatamab deruxtecan（I-DXd）针对铂类化疗后进展的广泛期小细胞肺癌的 BLA 加速批准申请。原文指出，加上两项 sNDA 获批，十月 FDA 决定日程仅余五项。",
+   "category": "regulatory",
+   "selected": true,
+   "publishedAt": "2026-09-29T22:27:57.000Z",
+   "discoveredAt": "2026-10-01T10:18:32.658Z",
+   "originalTitle": "I-DXd withdrawal thins October PDUFA calendar",
+   "url": "https://biocentury.com/article/660934/i-dxd-withdrawal-thins-october-pdufa-calendar"
+  },
+  {
+   "id": "fdi7ozsxt271te9sjz1rnmj9j",
+   "score": 58,
+   "title": "uniQure 亨廷顿病基因疗法四年随访数据引发疗效持久性质疑",
+   "reason": "四年随访与三年数据对比，复合终点效应缩小而功能终点仍支持批准，为该基因疗法疗效持久性提供了关键时序对照。",
+   "source": {
+    "name": "文献与产业新闻（bio-brief · Vault）"
+   },
+   "summary": "uniQure 亨廷顿病基因疗法四年随访数据显示复合终点获益较三年时缩小，疗效持久性面临质疑。功能容量结果仍支撑加速批准申请，但完全批准仍需确证性研究，且支付方能否认可其获益持续时间以覆盖成本仍不明朗。",
+   "category": "clinical",
+   "selected": true,
+   "publishedAt": "2026-09-29T21:35:06.000Z",
+   "discoveredAt": "2026-10-01T10:18:32.669Z",
+   "originalTitle": "Four-year data raise durability questions for uniQure’s Huntington gene therapy",
+   "url": "https://biocentury.com/article/660949/four-year-data-raise-durability-questions-for-uniqure-s-huntington-gene-therapy"
+  },
+  {
    "id": "jv8kee8tl79otjv6f0fqw5va8",
    "score": 58,
    "title": "肿瘤抑制基因样突变标记白血病中剂量约束的依赖性",
@@ -565,7 +1237,7 @@
    "id": "hhnvlqewllloe3uoxrftcpluj",
    "score": 48,
    "title": "uniQure 亨廷顿病基因疗法 AMT-130 四年随访数据疗效大幅降低",
-   "reason": "热度：5 个信源报道同一事件",
+   "reason": "热度：6 个信源报道同一事件",
    "source": {
     "name": "中文产业新闻（药渡/pharmcube · Vault）"
    },
@@ -626,10 +1298,42 @@
    "url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/curia-new-york-inc-728790-09182026"
   },
   {
+   "id": "cp3kvozemhbdkif86293k7b8u",
+   "score": 44,
+   "title": "系统发育动力学分析揭示登革病毒全球传播的不对称性与加速趋势",
+   "reason": null,
+   "source": {
+    "name": "bioRxiv Genomics"
+   },
+   "summary": "研究者基于1940年代以来的全球DENV基因组数据，通过系统发育动力学方法重建传播路径，发现当前城市登革病毒的多样性源于20世纪上半叶的亚洲。全球传播呈不对称格局，亚洲洲内传播密度最高并持续向非洲与美洲输出；DENV主要经南亚进入北美，自2010年起向美洲的传播速率明显加快。研究指出旅行量而非气候因素是塑造DENV长期传播格局的主导变量，提示其扩散将继续加速。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-09-30T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T04:59:17.134Z",
+   "originalTitle": "Phylodynamic analysis reveals asymmetric and accelerating global spread of dengue virus",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754967v1?rss=1"
+  },
+  {
+   "id": "hsnf4er93z4gzvcudmme6hcn6",
+   "score": 43,
+   "title": "Beam 诉讼指控 YolTech 与 Serapha 窃取技术",
+   "reason": "热度：5 个信源报道同一事件",
+   "source": {
+    "name": "文献与产业新闻（bio-brief · Vault）"
+   },
+   "summary": "Beam Therapeutics 于 9 月 25 日起诉前科学家 Zi Jun (Emma) Wang 及 YolTech、Serapha，指控其窃取 Beam 用于 α1-抗胰蛋白酶缺乏症（AATD）疗法的专有技术。",
+   "category": "industry",
+   "selected": true,
+   "publishedAt": "2026-09-29T21:42:12.000Z",
+   "discoveredAt": "2026-10-01T10:18:32.667Z",
+   "originalTitle": "Beam lawsuit accuses YolTech and Serapha of tech theft",
+   "url": "https://biocentury.com/article/660947/beam-lawsuit-accuses-yoltech-and-serapha-of-tech-theft"
+  },
+  {
    "id": "mow4pxq25uwp8sojrcu7lnnlc",
    "score": 43,
    "title": "阿斯利康向 Summit Therapeutics 投资 20 亿美元",
-   "reason": "热度：2 家媒体同报 · 5 个信源报道同一事件",
+   "reason": "热度：2 家媒体同报 · 6 个信源报道同一事件",
    "source": {
     "name": "STAT News"
    },
@@ -674,6 +1378,22 @@
    "url": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/?utm_campaign=rss"
   },
   {
+   "id": "ixcjch4xiywkyvxz3492yue77",
+   "score": 40,
+   "title": "基于全基因组与注释的荚膜组织胞浆菌快速多位点序列分型方法",
+   "reason": null,
+   "source": {
+    "name": "bioRxiv Genomics"
+   },
+   "summary": "研究人员开发了针对WHO高优先级真菌病原体荚膜组织胞浆菌(H. capsulatum)的快速全基因组多位点序列分型(MLST)方案。基于406个公共基因组组装构建了wgMLST、annMLST与fanMLST三种方案，每种含超过8,000个标记，可在常规计算设备上重现区分全部7个谱系及6个南美亚谱系，方案间比较的r²值在0.8–1.0之间。",
+   "category": "tip",
+   "selected": true,
+   "publishedAt": "2026-09-30T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T04:59:17.163Z",
+   "originalTitle": "Rapid whole genome- and annotation-based multilocus sequence typing of the fungal pathogen Histoplasma capsulatum",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.27.754713v1?rss=1"
+  },
+  {
    "id": "n5pvloa0zfmwqx6btjcvyo4jm",
    "score": 40,
    "title": "罗氏因二期结果不佳终止肌肉保留型肥胖药物 emugrobart 开发",
@@ -688,6 +1408,22 @@
    "discoveredAt": "2026-09-29T15:51:11.006Z",
    "originalTitle": "Roche cuts muscle-sparing obesity drug after mid-stage disappointment",
    "url": "https://www.biospace.com/drug-development/roche-cuts-muscle-sparing-obesity-drug-after-mid-stage-disappointment"
+  },
+  {
+   "id": "xtfrz6qbqrdxbclj0paxgi2g0",
+   "score": 38,
+   "title": "乌干达及邻国恶性疟原虫种群结构与耐药性的全基因组特征分析",
+   "reason": null,
+   "source": {
+    "name": "bioRxiv Genomics"
+   },
+   "summary": "研究对2023年乌干达26个哨点的249份单克隆恶性疟原虫基因组进行测序，并与5个邻国公开数据比较。PfPX1的PIN单倍型（L1222P、M1701I、D1705N）全国流行率达70%，合并D384A者集中于北部和东部，D384Y单倍型跨坦桑尼亚边境传播。乌干达全境遗传多样性高、分化低，为区域疟原虫耐药基因组监测提供了2023年基线。",
+   "category": "paper",
+   "selected": true,
+   "publishedAt": "2026-09-30T00:00:00.000Z",
+   "discoveredAt": "2026-10-01T04:59:17.136Z",
+   "originalTitle": "Whole-genome characterization of Plasmodium falciparum population structure and drug resistance across Uganda and neighboring countries",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.27.754784v1?rss=1"
   },
   {
    "id": "od9icvomxof6wvx4hau6810ek",
@@ -741,7 +1477,7 @@
    "id": "hen9hndqi47u6wg68q5j1n7gb",
    "score": 35,
    "title": "Beam Therapeutics 起诉中国生物技术公司 YolTech Therapeutics 及 Serapha Bio 涉嫌窃取知识产权",
-   "reason": "热度：3 个信源报道同一事件",
+   "reason": "热度：5 个信源报道同一事件",
    "source": {
     "name": "STAT News"
    },
@@ -1269,7 +2005,7 @@
    "id": "c41n63uhkfyyh5tumi694c29f",
    "score": 50,
    "title": "Merck 与第一三共撤回小细胞肺癌 ADC ifinatamab deruxtecan 的加速批准申请",
-   "reason": "热度：3 个信源报道同一事件",
+   "reason": "热度：4 个信源报道同一事件",
    "source": {
     "name": "BioSpace"
    },
